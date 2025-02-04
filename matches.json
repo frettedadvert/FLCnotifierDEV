@@ -1,0 +1,292 @@
+{
+    "https://www.dtvp.de/Center/common/project/search.do?method=showExtendedSearch&fromExternal=true#eyJjcHZDb2RlcyI6W3siY29kZSI6IjU1NTAwMDAwLTUiLCJuYW1lIjoiS2FudGluZW4tIHVuZCBWZXJwZmxlZ3VuZ3NkaWVuc3RlIn0seyJjb2RlIjoiNTU1MjAwMDAtMSIsIm5hbWUiOiJWZXJwZmxlZ3VuZ3NkaWVuc3RlIn1dLCJjb250cmFjdGluZ1J1bGVzIjpbIlZPTCIsIlZPQiIsIlZTVkdWIiwiU0VLVFZPIiwiT1RIRVIiXSwicHVibGljYXRpb25UeXBlcyI6WyJUZW5kZXIiLCJFeFBvc3QiXSwiZGlzdGFuY2UiOjAsInBvc3RhbENvZGUiOiIiLCJvcmRlciI6IjAiLCJwYWdlIjoiMSIsInNlYXJjaFRleHQiOiIiLCJzb3J0RmllbGQiOiJQUk9KRUNUX1BVQkxJQ0FUSU9OX0RBVEVfTE5HIn0": [
+        {
+            "title": "Verpflegungsdienstleistung in der NU Dortmund Ost",
+            "result": {
+                "sequence": "Verpflegungsdienstleistung in der NU Dortmund Ost",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9495540857315063,
+                    0.03175463154911995,
+                    0.01869124174118042
+                ]
+            }
+        },
+        {
+            "title": "Betreibung der Kantine f\u00fcr die Verpflegung im BSZ Freital",
+            "result": {
+                "sequence": "Betreibung der Kantine f\u00fcr die Verpflegung im BSZ Freital",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7206662893295288,
+                    0.20752690732479095,
+                    0.07180674374103546
+                ]
+            }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Schulmittagessen an zwei sonderp\u00e4dagogischen F\u00f6rderzentren des Bezirkes Treptow-K\u00f6penick von Berlin als Doppelstandort",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Schulmittagessen an zwei sonderp\u00e4dagogischen F\u00f6rderzentren des Bezirkes Treptow-K\u00f6penick von Berlin als Doppelstandort",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7297813892364502,
+                    0.15959055721759796,
+                    0.11062806844711304
+                ]
+            }
+        },
+        {
+            "title": "Bereitstellung eines Foodtrucks f\u00fcr die Verpflegung im BSZ Pirna",
+            "result": {
+                "sequence": "Bereitstellung eines Foodtrucks f\u00fcr die Verpflegung im BSZ Pirna",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8905326724052429,
+                    0.09995076805353165,
+                    0.009516545571386814
+                ]
+            }
+        },
+        {
+            "title": "Schulkioskkonzessionen f\u00fcr die Berufskollegs des Kreises Soest",
+            "result": {
+                "sequence": "Schulkioskkonzessionen f\u00fcr die Berufskollegs des Kreises Soest",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7317540645599365,
+                    0.149898499250412,
+                    0.1183473989367485
+                ]
+            }
+        },
+        {
+            "title": "Lieferung der Mittagsverpflegung f\u00fcr die Kita Wolkennest in der OG Engelstadt",
+            "result": {
+                "sequence": "Lieferung der Mittagsverpflegung f\u00fcr die Kita Wolkennest in der OG Engelstadt",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8483906388282776,
+                    0.11915493756532669,
+                    0.03245445340871811
+                ]
+            }
+        },
+        {
+            "title": "Vergabeverfahren zum Abschluss einer Rahmenvereinbarung f\u00fcr Cateringleistungen",
+            "result": {
+                "sequence": "Vergabeverfahren zum Abschluss einer Rahmenvereinbarung f\u00fcr Cateringleistungen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5099080801010132,
+                    0.48327580094337463,
+                    0.006816161796450615
+                ]
+            }
+        },
+        {
+            "title": "Landeshauptstadt Schwerin - Bereitstellung eines Verpflegungsautomaten (inkl. Wartung, Reparatur und regelm\u00e4\u00dfiger Bef\u00fcllung) f\u00fcr die Mitarbeiterkantine der Stadtverwaltung Schwerin",
+            "result": {
+                "sequence": "Landeshauptstadt Schwerin - Bereitstellung eines Verpflegungsautomaten (inkl. Wartung, Reparatur und regelm\u00e4\u00dfiger Bef\u00fcllung) f\u00fcr die Mitarbeiterkantine der Stadtverwaltung Schwerin",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9870296716690063,
+                    0.009010604582726955,
+                    0.003959763329476118
+                ]
+            }
+        },
+        {
+            "title": "Landeshauptstadt Schwerin - Bereitstellung eines Kaffeeautomaten (inkl. Wartung, Reparatur und regelm\u00e4\u00dfiger Bef\u00fcllung) f\u00fcr die Mitarbeiterkantine der Stadtverwaltung Schwerin",
+            "result": {
+                "sequence": "Landeshauptstadt Schwerin - Bereitstellung eines Kaffeeautomaten (inkl. Wartung, Reparatur und regelm\u00e4\u00dfiger Bef\u00fcllung) f\u00fcr die Mitarbeiterkantine der Stadtverwaltung Schwerin",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5077540874481201,
+                    0.3659878075122833,
+                    0.12625809013843536
+                ]
+            }
+        },
+        {
+            "title": "Ausschreibung der Stadt Weinstadt f\u00fcr Cateringleistungen an Grundschulen",
+            "result": {
+                "sequence": "Ausschreibung der Stadt Weinstadt f\u00fcr Cateringleistungen an Grundschulen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8931093215942383,
+                    0.09683653712272644,
+                    0.010054136626422405
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen bei Eins\u00e4tzen aus besonderem Anlass f\u00fcr die Polizei NRW",
+            "result": {
+                "sequence": "Verpflegungsleistungen bei Eins\u00e4tzen aus besonderem Anlass f\u00fcr die Polizei NRW",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9620200991630554,
+                    0.028147531673312187,
+                    0.009832354262471199
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung der Mittagsverpflegung f\u00fcr zwei Rosbacher KiTas",
+            "result": {
+                "sequence": "Herstellung und Lieferung der Mittagsverpflegung f\u00fcr zwei Rosbacher KiTas",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9465380907058716,
+                    0.047337040305137634,
+                    0.006124864332377911
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Dienstleistungskonzessionen f\u00fcr die Mittagessenverpflegung an st\u00e4dtischen Ganztagsschulen der Landeshauptstadt Hannover",
+            "result": {
+                "sequence": "Vergabe von Dienstleistungskonzessionen f\u00fcr die Mittagessenverpflegung an st\u00e4dtischen Ganztagsschulen der Landeshauptstadt Hannover",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7396180629730225,
+                    0.1996460258960724,
+                    0.060735881328582764
+                ]
+            }
+        },
+        {
+            "title": "Ausschreibung von Cateringleistungen f\u00fcr den Forschungscampus Waischenfeld",
+            "result": {
+                "sequence": "Ausschreibung von Cateringleistungen f\u00fcr den Forschungscampus Waischenfeld",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8580688834190369,
+                    0.12875154614448547,
+                    0.013179566711187363
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung von Mittagessen f\u00fcr die st\u00e4dtischen Horte Pfiffikus und Wuselkiste",
+            "result": {
+                "sequence": "Herstellung und Lieferung von Mittagessen f\u00fcr die st\u00e4dtischen Horte Pfiffikus und Wuselkiste",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.38569408655166626,
+                    0.38104403018951416,
+                    0.23326194286346436
+                ]
+            }
+        },
+        {
+            "title": "RV - Mittagsverpflegung an st\u00e4dtischen Kindertageseinrichtungen der Landeshauptstadt M\u00fcnchen im Cook & Freeze Verfahren, 2025-2027",
+            "result": {
+                "sequence": "RV - Mittagsverpflegung an st\u00e4dtischen Kindertageseinrichtungen der Landeshauptstadt M\u00fcnchen im Cook & Freeze Verfahren, 2025-2027",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9316748976707458,
+                    0.04471103474497795,
+                    0.023614073172211647
+                ]
+            }
+        },
+        {
+            "title": "Catering f\u00fcr die Mittagsverpflegung f\u00fcr zwei Rheinberger KiTa\u00b4s",
+            "result": {
+                "sequence": "Catering f\u00fcr die Mittagsverpflegung f\u00fcr zwei Rheinberger KiTa\u00b4s",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8239336609840393,
+                    0.16361871361732483,
+                    0.01244760025292635
+                ]
+            }
+        },
+        {
+            "title": "Bewirtschaftung der betriebsgastronomischen Einrichtungen des LVR in K\u00f6ln",
+            "result": {
+                "sequence": "Bewirtschaftung der betriebsgastronomischen Einrichtungen des LVR in K\u00f6ln",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6509755849838257,
+                    0.23274879157543182,
+                    0.11627568304538727
+                ]
+            }
+        }
+    ]
+}
