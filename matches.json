@@ -287,6 +287,38 @@
                     0.11627568304538727
                 ]
             }
+        },
+        {
+            "title": "Schulspeisung",
+            "result": {
+                "sequence": "Schulspeisung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7188612818717957,
+                    0.1843244880437851,
+                    0.09681423008441925
+                ]
+            }
+        },
+        {
+            "title": "Lieferung von Mittagessen f\u00fcr zwei Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Lieferung von Mittagessen f\u00fcr zwei Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.4802895188331604,
+                    0.3756430447101593,
+                    0.1440674364566803
+                ]
+            }
         }
     ]
 }
