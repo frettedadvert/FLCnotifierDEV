@@ -319,6 +319,22 @@
                     0.1440674364566803
                 ]
             }
+        },
+        {
+            "title": "Dienstleistungskonzessionsvergabe zur Bewirtschaftung der Mensa an der Schule am Rothenberg (Los 1) und der Realschule plus und Fachoberschule Hachenburger L\u00f6we (Los 2) in 57627 Hachenburg",
+            "result": {
+                "sequence": "Dienstleistungskonzessionsvergabe zur Bewirtschaftung der Mensa an der Schule am Rothenberg (Los 1) und der Realschule plus und Fachoberschule Hachenburger L\u00f6we (Los 2) in 57627 Hachenburg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8256545066833496,
+                    0.1058841124176979,
+                    0.0684613436460495
+                ]
+            }
         }
     ]
 }
