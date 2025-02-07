@@ -335,6 +335,230 @@
                     0.0684613436460495
                 ]
             }
+        },
+        {
+            "title": "Ausschreibung eines Rahmenvertrages \u00fcber Verpflegungsleistungen in div. Einrichtungen von F&W",
+            "result": {
+                "sequence": "Ausschreibung eines Rahmenvertrages \u00fcber Verpflegungsleistungen in div. Einrichtungen von F&W",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9648803472518921,
+                    0.02242334745824337,
+                    0.012696334160864353
+                ]
+            }
+        },
+        {
+            "title": "Ca\u00adte\u00adring f\u00fcr Work\u00adshop am 02.-und 03.04.2025",
+            "result": {
+                "sequence": "Ca\u00adte\u00adring f\u00fcr Work\u00adshop am 02.-und 03.04.2025",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.49270913004875183,
+                    0.41118308901786804,
+                    0.09610781818628311
+                ]
+            }
+        },
+        {
+            "title": "Mit\u00adtags\u00adver\u00adpfle\u00adgung f\u00fcr die Leo-Staus\u00adberg-Schu\u00adle, Brohl-L\u00fct\u00adzing",
+            "result": {
+                "sequence": "Mit\u00adtags\u00adver\u00adpfle\u00adgung f\u00fcr die Leo-Staus\u00adberg-Schu\u00adle, Brohl-L\u00fct\u00adzing",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9021674394607544,
+                    0.0660598874092102,
+                    0.03177260980010033
+                ]
+            }
+        },
+        {
+            "title": "Bewirtschaftungs- und Cateringleistungen zur Sicherstellung der Mitarbeitendenversorgung der FBB GmbH",
+            "result": {
+                "sequence": "Bewirtschaftungs- und Cateringleistungen zur Sicherstellung der Mitarbeitendenversorgung der FBB GmbH",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9457310438156128,
+                    0.04493638128042221,
+                    0.009332534857094288
+                ]
+            }
+        },
+        {
+            "title": "Vergabe der Speisenversorgung Seniorenstift Heiliggeist Stadt Passau",
+            "result": {
+                "sequence": "Vergabe der Speisenversorgung Seniorenstift Heiliggeist Stadt Passau",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9291569590568542,
+                    0.04190261662006378,
+                    0.028940383344888687
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung in Offenen Ganztagsschulen (OGS)",
+            "result": {
+                "sequence": "Mittagsverpflegung in Offenen Ganztagsschulen (OGS)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6586817502975464,
+                    0.273102730512619,
+                    0.06821546703577042
+                ]
+            }
+        },
+        {
+            "title": "Kita- und Schulverpflegung der Gemeinde Hude (Oldb)",
+            "result": {
+                "sequence": "Kita- und Schulverpflegung der Gemeinde Hude (Oldb)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9834425449371338,
+                    0.011953630484640598,
+                    0.004603832494467497
+                ]
+            }
+        },
+        {
+            "title": "Speisenverpflegung an Schulen des Landkreises Celle",
+            "result": {
+                "sequence": "Speisenverpflegung an Schulen des Landkreises Celle",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9073540568351746,
+                    0.05588306114077568,
+                    0.03676284849643707
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung von Sch\u00fclerinnen und Sch\u00fclern der L\u00f6wenschule Alzey",
+            "result": {
+                "sequence": "Mittagsverpflegung von Sch\u00fclerinnen und Sch\u00fclern der L\u00f6wenschule Alzey",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9312475323677063,
+                    0.05548180639743805,
+                    0.013270641677081585
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistung f\u00fcr Asylsuchende ANKER-Einrichtung Regensburg",
+            "result": {
+                "sequence": "Verpflegungsleistung f\u00fcr Asylsuchende ANKER-Einrichtung Regensburg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9570661187171936,
+                    0.024818269535899162,
+                    0.018115641549229622
+                ]
+            }
+        },
+        {
+            "title": "Rhine-Ruhr 2025 FISU GAMES - RV Cateringdienstleistungen",
+            "result": {
+                "sequence": "Rhine-Ruhr 2025 FISU GAMES - RV Cateringdienstleistungen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8773391246795654,
+                    0.10384918749332428,
+                    0.018811700865626335
+                ]
+            }
+        },
+        {
+            "title": "Catering / Verpflegungsdienst f\u00fcr Mensa I und II (f\u00fcr 5 Jahre)",
+            "result": {
+                "sequence": "Catering / Verpflegungsdienst f\u00fcr Mensa I und II (f\u00fcr 5 Jahre)",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8699632883071899,
+                    0.12022937089204788,
+                    0.009807294234633446
+                ]
+            }
+        },
+        {
+            "title": "Schulmittagessen 2025-2028",
+            "result": {
+                "sequence": "Schulmittagessen 2025-2028",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6208568811416626,
+                    0.26226887106895447,
+                    0.11687421053647995
+                ]
+            }
+        },
+        {
+            "title": "Lieferung der Mittagsverpflegung f\u00fcr die Kita R\u00e4uberh\u00f6hle in der OG Ober-Hilbersheim",
+            "result": {
+                "sequence": "Lieferung der Mittagsverpflegung f\u00fcr die Kita R\u00e4uberh\u00f6hle in der OG Ober-Hilbersheim",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8783169388771057,
+                    0.0906091257929802,
+                    0.0310739204287529
+                ]
+            }
         }
     ]
 }
