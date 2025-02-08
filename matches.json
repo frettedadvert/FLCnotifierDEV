@@ -559,6 +559,22 @@
                     0.0310739204287529
                 ]
             }
+        },
+        {
+            "title": "Rahmenvertrag: Catering Dienstleistungen an der Universit\u00e4t M\u00fcnster",
+            "result": {
+                "sequence": "Rahmenvertrag: Catering Dienstleistungen an der Universit\u00e4t M\u00fcnster",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9068325757980347,
+                    0.08452421426773071,
+                    0.008643146604299545
+                ]
+            }
         }
     ]
 }
