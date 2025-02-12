@@ -575,6 +575,22 @@
                     0.008643146604299545
                 ]
             }
+        },
+        {
+            "title": "Stadt Einbeck - Zubereitung - Lieferung und Ausgabe von Mittagessen f\u00fcr 8 Grundschulen im Bereich Einbeck 2025 - 2028",
+            "result": {
+                "sequence": "Stadt Einbeck - Zubereitung - Lieferung und Ausgabe von Mittagessen f\u00fcr 8 Grundschulen im Bereich Einbeck 2025 - 2028",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.644166886806488,
+                    0.2545274496078491,
+                    0.10130567848682404
+                ]
+            }
         }
     ]
 }
