@@ -591,6 +591,22 @@
                     0.10130567848682404
                 ]
             }
+        },
+        {
+            "title": "Dienstleistungskonzessionsvertr\u00e4gen f\u00fcr die Oberschulen Herstellung, Lieferung und Ausgabe von Schulmittagessen und Bewirtschaftung eines Cafeteria-_Kioskangebotes an den Schulen - inkl. Reinigung der zu nutzenden Fl\u00e4chen",
+            "result": {
+                "sequence": "Dienstleistungskonzessionsvertr\u00e4gen f\u00fcr die Oberschulen Herstellung, Lieferung und Ausgabe von Schulmittagessen und Bewirtschaftung eines Cafeteria-_Kioskangebotes an den Schulen - inkl. Reinigung der zu nutzenden Fl\u00e4chen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8389548063278198,
+                    0.12253239005804062,
+                    0.03851282596588135
+                ]
+            }
         }
     ]
 }
