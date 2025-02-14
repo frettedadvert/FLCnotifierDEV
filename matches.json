@@ -607,6 +607,38 @@
                     0.03851282596588135
                 ]
             }
+        },
+        {
+            "title": "Kantinenbewirtschftung f\u00fcr die Hamburger Hochbahn AG",
+            "result": {
+                "sequence": "Kantinenbewirtschftung f\u00fcr die Hamburger Hochbahn AG",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8996807932853699,
+                    0.07192762196063995,
+                    0.02839154563844204
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung f\u00fcr 7 Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Mittagsverpflegung f\u00fcr 7 Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9330396056175232,
+                    0.05464332550764084,
+                    0.012317143380641937
+                ]
+            }
         }
     ]
 }
