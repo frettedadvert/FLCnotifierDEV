@@ -639,6 +639,118 @@
                     0.012317143380641937
                 ]
             }
+        },
+        {
+            "title": "Mit\u00adtags\u00adver\u00adpfle\u00adgung Grund\u00adschu\u00adle Soh\u00adren",
+            "result": {
+                "sequence": "Mit\u00adtags\u00adver\u00adpfle\u00adgung Grund\u00adschu\u00adle Soh\u00adren",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9379615187644958,
+                    0.03919673338532448,
+                    0.02284177392721176
+                ]
+            }
+        },
+        {
+            "title": "Mit\u00adtags\u00adver\u00adpfle\u00adgung f\u00fcr die Ma\u00adxi\u00admi\u00adli\u00adan-Kol\u00adbe-Schu\u00adle in Rhein\u00adbrohl",
+            "result": {
+                "sequence": "Mit\u00adtags\u00adver\u00adpfle\u00adgung f\u00fcr die Ma\u00adxi\u00admi\u00adli\u00adan-Kol\u00adbe-Schu\u00adle in Rhein\u00adbrohl",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9148914813995361,
+                    0.07447043806314468,
+                    0.01063811406493187
+                ]
+            }
+        },
+        {
+            "title": "Konzessionsvertrag Schulspeisung f\u00fcr Schulen in Tr\u00e4gerschaft des Landkreises Oder-Spree",
+            "result": {
+                "sequence": "Konzessionsvertrag Schulspeisung f\u00fcr Schulen in Tr\u00e4gerschaft des Landkreises Oder-Spree",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8359488844871521,
+                    0.14139725267887115,
+                    0.022653847932815552
+                ]
+            }
+        },
+        {
+            "title": "Kommunale Klimakonferenz 2025",
+            "result": {
+                "sequence": "Kommunale Klimakonferenz 2025",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7299827337265015,
+                    0.20281633734703064,
+                    0.06720088422298431
+                ]
+            }
+        },
+        {
+            "title": "An\u00admie\u00adtung ei\u00adner Veranstaltungsst\u00e4tte, Ca\u00adte\u00adring, Tech\u00adnik so\u00adwie Mo\u00adde\u00adra\u00adti\u00adon und Medienbegleitung f\u00fcr die hy\u00adbri\u00adde Ver\u00adan\u00adstal\u00adtung? Kon\u00adgress Ener\u00adgie\u00adef\u00adfi\u00adzi\u00adenz\u00adfor\u00adschung",
+            "result": {
+                "sequence": "An\u00admie\u00adtung ei\u00adner Veranstaltungsst\u00e4tte, Ca\u00adte\u00adring, Tech\u00adnik so\u00adwie Mo\u00adde\u00adra\u00adti\u00adon und Medienbegleitung f\u00fcr die hy\u00adbri\u00adde Ver\u00adan\u00adstal\u00adtung? Kon\u00adgress Ener\u00adgie\u00adef\u00adfi\u00adzi\u00adenz\u00adfor\u00adschung",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7171090245246887,
+                    0.16888202726840973,
+                    0.11400890350341797
+                ]
+            }
+        },
+        {
+            "title": "Verpflegung Stern Buchholz",
+            "result": {
+                "sequence": "Verpflegung Stern Buchholz",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9618787169456482,
+                    0.02460215426981449,
+                    0.013519149273633957
+                ]
+            }
+        },
+        {
+            "title": "Catering Transferbr\u00fccke",
+            "result": {
+                "sequence": "Catering Transferbr\u00fccke",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8770096302032471,
+                    0.11397193372249603,
+                    0.00901842676103115
+                ]
+            }
         }
     ]
 }
