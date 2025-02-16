@@ -751,6 +751,22 @@
                     0.00901842676103115
                 ]
             }
+        },
+        {
+            "title": "Rah\u00admen\u00adver\u00adein\u00adba\u00adrung Mit\u00adtages\u00adsen f\u00fcr die drei st\u00e4d\u00adti\u00adschen Kin\u00adder\u00adta\u00adges\u00adein\u00adrich\u00adtun\u00adgen",
+            "result": {
+                "sequence": "Rah\u00admen\u00adver\u00adein\u00adba\u00adrung Mit\u00adtages\u00adsen f\u00fcr die drei st\u00e4d\u00adti\u00adschen Kin\u00adder\u00adta\u00adges\u00adein\u00adrich\u00adtun\u00adgen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8709428310394287,
+                    0.08349645882844925,
+                    0.04556070268154144
+                ]
+            }
         }
     ]
 }
