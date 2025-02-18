@@ -767,6 +767,54 @@
                     0.04556070268154144
                 ]
             }
+        },
+        {
+            "title": "Gastronomische Bewirtschaftung",
+            "result": {
+                "sequence": "Gastronomische Bewirtschaftung",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5179924368858337,
+                    0.3491800129413605,
+                    0.1328275203704834
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung f\u00fcr Schulen und KiTas in Bobenheim-Roxheim",
+            "result": {
+                "sequence": "Mittagsverpflegung f\u00fcr Schulen und KiTas in Bobenheim-Roxheim",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8603678345680237,
+                    0.12263472378253937,
+                    0.01699744537472725
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung in den Kindertagesst\u00e4tten der Samtgemeinde Fredenbeck",
+            "result": {
+                "sequence": "Mittagsverpflegung in den Kindertagesst\u00e4tten der Samtgemeinde Fredenbeck",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9420956373214722,
+                    0.04481115564703941,
+                    0.013093169778585434
+                ]
+            }
         }
     ]
 }
