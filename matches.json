@@ -815,6 +815,22 @@
                     0.013093169778585434
                 ]
             }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Mittagessen f\u00fcr die L\u00f6wenzahn Grundschule Breddin",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Mittagessen f\u00fcr die L\u00f6wenzahn Grundschule Breddin",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.40295279026031494,
+                    0.3007467985153198,
+                    0.2963004410266876
+                ]
+            }
         }
     ]
 }
