@@ -831,6 +831,38 @@
                     0.2963004410266876
                 ]
             }
+        },
+        {
+            "title": "Rahmenvereinbarung Verpflegungsdienst Hessische Abschiebungshafteinrichtung",
+            "result": {
+                "sequence": "Rahmenvereinbarung Verpflegungsdienst Hessische Abschiebungshafteinrichtung",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9086676836013794,
+                    0.049847111105918884,
+                    0.0414852574467659
+                ]
+            }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Mittagessen f\u00fcr die Prinz-von-Homburg Schule Neustadt (Dosse)",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Mittagessen f\u00fcr die Prinz-von-Homburg Schule Neustadt (Dosse)",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.41898542642593384,
+                    0.35817673802375793,
+                    0.22283774614334106
+                ]
+            }
         }
     ]
 }
