@@ -863,6 +863,54 @@
                     0.22283774614334106
                 ]
             }
+        },
+        {
+            "title": "12EU/25 Mittagsverpflegung an verschiedenen Schulen in 5 Losen",
+            "result": {
+                "sequence": "12EU/25 Mittagsverpflegung an verschiedenen Schulen in 5 Losen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8963477611541748,
+                    0.08637505769729614,
+                    0.017277130857110023
+                ]
+            }
+        },
+        {
+            "title": "Vergabe eines Rahmenvertrages \u00fcber Cateringleistungen f\u00fcr die Stadt Falkensee",
+            "result": {
+                "sequence": "Vergabe eines Rahmenvertrages \u00fcber Cateringleistungen f\u00fcr die Stadt Falkensee",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7800632119178772,
+                    0.21556463837623596,
+                    0.004372136667370796
+                ]
+            }
+        },
+        {
+            "title": "Essensverpflegung in der Erstaufnahmeeinrichtung f\u00fcr Fl\u00fcchtlinge Am Schr\u00f6cker Tor 2, 76344 Eggenstein-Leopoldshafen",
+            "result": {
+                "sequence": "Essensverpflegung in der Erstaufnahmeeinrichtung f\u00fcr Fl\u00fcchtlinge Am Schr\u00f6cker Tor 2, 76344 Eggenstein-Leopoldshafen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9741259813308716,
+                    0.022412054240703583,
+                    0.0034620193764567375
+                ]
+            }
         }
     ]
 }
