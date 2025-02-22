@@ -911,6 +911,70 @@
                     0.0034620193764567375
                 ]
             }
+        },
+        {
+            "title": "Ca\u00adte\u00adring trans\u00adform_D Sum\u00admit 2025",
+            "result": {
+                "sequence": "Ca\u00adte\u00adring trans\u00adform_D Sum\u00admit 2025",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6569665670394897,
+                    0.21184127032756805,
+                    0.13119210302829742
+                ]
+            }
+        },
+        {
+            "title": "Kantinenbetrieb und Automatenaufstellung am Standort CRC/ITEM",
+            "result": {
+                "sequence": "Kantinenbetrieb und Automatenaufstellung am Standort CRC/ITEM",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.883905291557312,
+                    0.07671956717967987,
+                    0.03937513008713722
+                ]
+            }
+        },
+        {
+            "title": "Mittagessenversorgung Braunschweiger Schulen",
+            "result": {
+                "sequence": "Mittagessenversorgung Braunschweiger Schulen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.602858304977417,
+                    0.2135990411043167,
+                    0.1835426688194275
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an TEK`s, Grundschulen und weiterf\u00fchrenden Schulen",
+            "result": {
+                "sequence": "Mittagsverpflegung an TEK`s, Grundschulen und weiterf\u00fchrenden Schulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8259503841400146,
+                    0.1311054527759552,
+                    0.042944204062223434
+                ]
+            }
         }
     ]
 }
