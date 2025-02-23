@@ -975,6 +975,38 @@
                     0.042944204062223434
                 ]
             }
+        },
+        {
+            "title": "Rahmenvereinbarung Mittagsverpflegung Schulen",
+            "result": {
+                "sequence": "Rahmenvereinbarung Mittagsverpflegung Schulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9311915636062622,
+                    0.050470106303691864,
+                    0.01833828166127205
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen",
+            "result": {
+                "sequence": "Verpflegungsleistungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7989512085914612,
+                    0.12374770641326904,
+                    0.07730109989643097
+                ]
+            }
         }
     ]
 }
