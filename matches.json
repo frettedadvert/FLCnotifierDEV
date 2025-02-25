@@ -1007,6 +1007,70 @@
                     0.07730109989643097
                 ]
             }
+        },
+        {
+            "title": "Mittagessen an T\u00fcbinger Schulen - nachhaltig. gut. 2025-2027",
+            "result": {
+                "sequence": "Mittagessen an T\u00fcbinger Schulen - nachhaltig. gut. 2025-2027",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.66777503490448,
+                    0.24045884609222412,
+                    0.09176605194807053
+                ]
+            }
+        },
+        {
+            "title": "Vergabe der Speisen- und Getr\u00e4nkeversorgung der Friesland Kliniken gGmbH",
+            "result": {
+                "sequence": "Vergabe der Speisen- und Getr\u00e4nkeversorgung der Friesland Kliniken gGmbH",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.860649585723877,
+                    0.08675876259803772,
+                    0.052591629326343536
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung von Mittagsverpflegung",
+            "result": {
+                "sequence": "Herstellung und Lieferung von Mittagsverpflegung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.786880612373352,
+                    0.14681844413280487,
+                    0.06630092859268188
+                ]
+            }
+        },
+        {
+            "title": "Versorgung st\u00e4dtischer Schulen und der Kindertagesst\u00e4tten/Horteinrichtungen mit Speisen und Getr\u00e4nken in der Ganztagsversorgung in kommunaler Tr\u00e4gerschaft der Stadt Oranienburg",
+            "result": {
+                "sequence": "Versorgung st\u00e4dtischer Schulen und der Kindertagesst\u00e4tten/Horteinrichtungen mit Speisen und Getr\u00e4nken in der Ganztagsversorgung in kommunaler Tr\u00e4gerschaft der Stadt Oranienburg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7693402171134949,
+                    0.14663265645503998,
+                    0.08402720838785172
+                ]
+            }
         }
     ]
 }
