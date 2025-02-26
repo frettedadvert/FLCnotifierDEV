@@ -1071,6 +1071,38 @@
                     0.08402720838785172
                 ]
             }
+        },
+        {
+            "title": "Vergabe einer Dienstleistungskonzession f\u00fcr die Mittagessenverpflegung an der st\u00e4dtischen Ganztagsschule GS Konsberg-S\u00fcd der Landeshauptstadt Hannover",
+            "result": {
+                "sequence": "Vergabe einer Dienstleistungskonzession f\u00fcr die Mittagessenverpflegung an der st\u00e4dtischen Ganztagsschule GS Konsberg-S\u00fcd der Landeshauptstadt Hannover",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8441569209098816,
+                    0.11971388012170792,
+                    0.036129217594861984
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen in Kindertagesst\u00e4tten, Schulen und Horteinrichtungen",
+            "result": {
+                "sequence": "Verpflegungsleistungen in Kindertagesst\u00e4tten, Schulen und Horteinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.892516016960144,
+                    0.08880247920751572,
+                    0.01868152990937233
+                ]
+            }
         }
     ]
 }
