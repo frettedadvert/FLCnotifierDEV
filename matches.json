@@ -1103,6 +1103,22 @@
                     0.01868152990937233
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung an st\u00e4dtischen Schulen und Kitas, hier: Rahmenvertrag f\u00fcr die Liefer- und Dienstleistung \u00fcber vier Jahre",
+            "result": {
+                "sequence": "Mittagsverpflegung an st\u00e4dtischen Schulen und Kitas, hier: Rahmenvertrag f\u00fcr die Liefer- und Dienstleistung \u00fcber vier Jahre",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9861629605293274,
+                    0.010201536118984222,
+                    0.00363549473695457
+                ]
+            }
         }
     ]
 }
