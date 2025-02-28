@@ -1119,6 +1119,38 @@
                     0.00363549473695457
                 ]
             }
+        },
+        {
+            "title": "BV-HT: Konzession f\u00fcr Catering der Hessentagsarena",
+            "result": {
+                "sequence": "BV-HT: Konzession f\u00fcr Catering der Hessentagsarena",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8587878346443176,
+                    0.12954267859458923,
+                    0.011669515632092953
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung Mittagsverpflegung st\u00e4dtische Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Herstellung und Lieferung Mittagsverpflegung st\u00e4dtische Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8825421333312988,
+                    0.10133007168769836,
+                    0.0161278136074543
+                ]
+            }
         }
     ]
 }
