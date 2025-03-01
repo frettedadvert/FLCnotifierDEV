@@ -1151,6 +1151,38 @@
                     0.0161278136074543
                 ]
             }
+        },
+        {
+            "title": "Schulverpflegung an weiterf\u00fchrenden Schulen der Stadt Sankt Augustin",
+            "result": {
+                "sequence": "Schulverpflegung an weiterf\u00fchrenden Schulen der Stadt Sankt Augustin",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9874181747436523,
+                    0.009863683953881264,
+                    0.0027181184850633144
+                ]
+            }
+        },
+        {
+            "title": "Zubereitung und Lieferung der Mittagsverpflegung f\u00fcr die Dietrich-Bonhoeffer-Schule der Stadt Hamm",
+            "result": {
+                "sequence": "Zubereitung und Lieferung der Mittagsverpflegung f\u00fcr die Dietrich-Bonhoeffer-Schule der Stadt Hamm",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8852412700653076,
+                    0.08318635076284409,
+                    0.031572405248880386
+                ]
+            }
         }
     ]
 }
