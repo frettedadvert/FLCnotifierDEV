@@ -1183,6 +1183,22 @@
                     0.031572405248880386
                 ]
             }
+        },
+        {
+            "title": "Dienstleistungskonzession f\u00fcr den Betrieb der Mensa an der Integrierten Gesamtschule (IGS) und dem Greselius-Gymnasium Bramsche",
+            "result": {
+                "sequence": "Dienstleistungskonzession f\u00fcr den Betrieb der Mensa an der Integrierten Gesamtschule (IGS) und dem Greselius-Gymnasium Bramsche",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6109246611595154,
+                    0.2879438102245331,
+                    0.10113147646188736
+                ]
+            }
         }
     ]
 }
