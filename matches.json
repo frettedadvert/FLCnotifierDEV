@@ -1199,6 +1199,54 @@
                     0.10113147646188736
                 ]
             }
+        },
+        {
+            "title": "Mittagessen an T\u00fcbinger KiTa's- nachhaltig. gut. 2025-2027",
+            "result": {
+                "sequence": "Mittagessen an T\u00fcbinger KiTa's- nachhaltig. gut. 2025-2027",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6073588728904724,
+                    0.26052048802375793,
+                    0.13212063908576965
+                ]
+            }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Kitaessen und Mensabetrieb",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Kitaessen und Mensabetrieb",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5613646507263184,
+                    0.27177825570106506,
+                    0.1668570637702942
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen mit Betrieb Verteilk\u00fcche",
+            "result": {
+                "sequence": "Verpflegungsleistungen mit Betrieb Verteilk\u00fcche",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7767380475997925,
+                    0.16942918300628662,
+                    0.0538327731192112
+                ]
+            }
         }
     ]
 }
