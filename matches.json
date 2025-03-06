@@ -1247,6 +1247,70 @@
                     0.0538327731192112
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung f\u00fcr die Grundschule mit Kindertagesst\u00e4tte in Seelze-Harenberg",
+            "result": {
+                "sequence": "Mittagsverpflegung f\u00fcr die Grundschule mit Kindertagesst\u00e4tte in Seelze-Harenberg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.976521372795105,
+                    0.019845303148031235,
+                    0.003633350133895874
+                ]
+            }
+        },
+        {
+            "title": "Zubereitung und Lieferung der Mittagsverpflegung sowie Speiseresteentsorgung an den st\u00e4dtischen Schulen Anita-Ruth-Faber-Sekundarschule Netphen und Gymnasium Netphen",
+            "result": {
+                "sequence": "Zubereitung und Lieferung der Mittagsverpflegung sowie Speiseresteentsorgung an den st\u00e4dtischen Schulen Anita-Ruth-Faber-Sekundarschule Netphen und Gymnasium Netphen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.641518771648407,
+                    0.26979532837867737,
+                    0.08868587017059326
+                ]
+            }
+        },
+        {
+            "title": "Bewirtschaftung des Betriebsrestaurants inkl. Zwischenverpflegung und Automatenservice",
+            "result": {
+                "sequence": "Bewirtschaftung des Betriebsrestaurants inkl. Zwischenverpflegung und Automatenservice",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8985921144485474,
+                    0.09338445216417313,
+                    0.008023426868021488
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung - Grundschule Wei\u00dfenthurm",
+            "result": {
+                "sequence": "Mittagsverpflegung - Grundschule Wei\u00dfenthurm",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9556262493133545,
+                    0.031967051327228546,
+                    0.012406723573803902
+                ]
+            }
         }
     ]
 }
