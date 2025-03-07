@@ -1311,6 +1311,22 @@
                     0.012406723573803902
                 ]
             }
+        },
+        {
+            "title": "Pausenverkauf und Mittagsverpflegung am Deutsch-Luxemburgischen Schengen-Lyzeum Perl",
+            "result": {
+                "sequence": "Pausenverkauf und Mittagsverpflegung am Deutsch-Luxemburgischen Schengen-Lyzeum Perl",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8815838098526001,
+                    0.08511573076248169,
+                    0.03330047056078911
+                ]
+            }
         }
     ]
 }
