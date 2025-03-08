@@ -1327,6 +1327,22 @@
                     0.03330047056078911
                 ]
             }
+        },
+        {
+            "title": "Cateringleistungen f\u00fcr die Unterkunft f\u00fcr Gefl\u00fcchtete Messe Airport Hotel",
+            "result": {
+                "sequence": "Cateringleistungen f\u00fcr die Unterkunft f\u00fcr Gefl\u00fcchtete Messe Airport Hotel",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.939047634601593,
+                    0.049419552087783813,
+                    0.011532786302268505
+                ]
+            }
         }
     ]
 }
