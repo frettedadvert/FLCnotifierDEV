@@ -1343,6 +1343,22 @@
                     0.011532786302268505
                 ]
             }
+        },
+        {
+            "title": "Ausgabe der Mittagsverpflegung einschlie\u00dflich vor- und nachbereitender T\u00e4tigkeiten an Schulen der Stadt Hildesheim",
+            "result": {
+                "sequence": "Ausgabe der Mittagsverpflegung einschlie\u00dflich vor- und nachbereitender T\u00e4tigkeiten an Schulen der Stadt Hildesheim",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.907917857170105,
+                    0.06914238631725311,
+                    0.02293972857296467
+                ]
+            }
         }
     ]
 }
