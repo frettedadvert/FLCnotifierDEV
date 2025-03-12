@@ -1359,6 +1359,22 @@
                     0.02293972857296467
                 ]
             }
+        },
+        {
+            "title": "Rahmenvereinbarung Kita Verpflegung",
+            "result": {
+                "sequence": "Rahmenvereinbarung Kita Verpflegung",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8339024782180786,
+                    0.10562785714864731,
+                    0.06046963110566139
+                ]
+            }
         }
     ]
 }
