@@ -1375,6 +1375,38 @@
                     0.06046963110566139
                 ]
             }
+        },
+        {
+            "title": "Mit\u00adtags\u00adver\u00adpfle\u00adgung f\u00fcr die Hein\u00adrich-von-Ga\u00adgern-Grund\u00adschu\u00adle Mons\u00adheim",
+            "result": {
+                "sequence": "Mit\u00adtags\u00adver\u00adpfle\u00adgung f\u00fcr die Hein\u00adrich-von-Ga\u00adgern-Grund\u00adschu\u00adle Mons\u00adheim",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9682067036628723,
+                    0.021180875599384308,
+                    0.010612434707581997
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsdienstleistung f\u00fcr die Containersiedlung Krefeld-Forstwald",
+            "result": {
+                "sequence": "Verpflegungsdienstleistung f\u00fcr die Containersiedlung Krefeld-Forstwald",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8915401697158813,
+                    0.0990588366985321,
+                    0.009401015937328339
+                ]
+            }
         }
     ]
 }
