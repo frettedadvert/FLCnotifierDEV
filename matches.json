@@ -1407,6 +1407,118 @@
                     0.009401015937328339
                 ]
             }
+        },
+        {
+            "title": "Schulverpflegung f\u00fcr die Wallenhorster Grundschulen",
+            "result": {
+                "sequence": "Schulverpflegung f\u00fcr die Wallenhorster Grundschulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9514972567558289,
+                    0.03965003043413162,
+                    0.008852698840200901
+                ]
+            }
+        },
+        {
+            "title": "Los 6 - Grundschule Gro\u00dfstechau, Regelschule N\u00f6bdenitz und Grundschule Thonhausen; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+            "result": {
+                "sequence": "Los 6 - Grundschule Gro\u00dfstechau, Regelschule N\u00f6bdenitz und Grundschule Thonhausen; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.4114147424697876,
+                    0.39819860458374023,
+                    0.19038668274879456
+                ]
+            }
+        },
+        {
+            "title": "Los 8 - Grundschule G\u00f6\u00dfnitz, Regelschule G\u00f6\u00dfnitz und Grundschule G\u00f6\u00dfnitz, Schulteil Ponitz; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+            "result": {
+                "sequence": "Los 8 - Grundschule G\u00f6\u00dfnitz, Regelschule G\u00f6\u00dfnitz und Grundschule G\u00f6\u00dfnitz, Schulteil Ponitz; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.4714002013206482,
+                    0.27913179993629456,
+                    0.24946798384189606
+                ]
+            }
+        },
+        {
+            "title": "Sch\u00fclerverpflegung - Lose GS Frauenstra\u00dfe, GS Rosenstra\u00dfe, MS Hans-Sachs-Stra\u00dfe",
+            "result": {
+                "sequence": "Sch\u00fclerverpflegung - Lose GS Frauenstra\u00dfe, GS Rosenstra\u00dfe, MS Hans-Sachs-Stra\u00dfe",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9411792159080505,
+                    0.05142343044281006,
+                    0.007397329434752464
+                ]
+            }
+        },
+        {
+            "title": "Los 7 - Grundschule Schm\u00f6lln, Regelschule Schm\u00f6lln, F\u00f6rderzentrum Schm\u00f6lln und Grundschule Altkirchen; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+            "result": {
+                "sequence": "Los 7 - Grundschule Schm\u00f6lln, Regelschule Schm\u00f6lln, F\u00f6rderzentrum Schm\u00f6lln und Grundschule Altkirchen; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+                "labels": [
+                    "lebensmittel",
+                    "verpflegung",
+                    "catering"
+                ],
+                "scores": [
+                    0.3914732336997986,
+                    0.37231960892677307,
+                    0.23620715737342834
+                ]
+            }
+        },
+        {
+            "title": "Rhine-Ruhr 2025 FISU GAMES - RV Cateringdienstleistungen Berlin",
+            "result": {
+                "sequence": "Rhine-Ruhr 2025 FISU GAMES - RV Cateringdienstleistungen Berlin",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8722442388534546,
+                    0.10944206267595291,
+                    0.018313804641366005
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen f\u00fcr Schulen und Horte - 14532 Kleinmachnow",
+            "result": {
+                "sequence": "Verpflegungsleistungen f\u00fcr Schulen und Horte - 14532 Kleinmachnow",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9368234872817993,
+                    0.054955754429101944,
+                    0.008220706135034561
+                ]
+            }
         }
     ]
 }
