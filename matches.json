@@ -1519,6 +1519,22 @@
                     0.008220706135034561
                 ]
             }
+        },
+        {
+            "title": "Ausschreibung Speiseversorgung f\u00fcr die Bezirksklinik Rehau",
+            "result": {
+                "sequence": "Ausschreibung Speiseversorgung f\u00fcr die Bezirksklinik Rehau",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9021387100219727,
+                    0.06364762037992477,
+                    0.03421361371874809
+                ]
+            }
         }
     ]
 }
