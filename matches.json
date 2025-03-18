@@ -1535,6 +1535,70 @@
                     0.03421361371874809
                 ]
             }
+        },
+        {
+            "title": "Verpflegungsleistungen an verschiedenen Schulen in Hanstedt und Jesteburg - Vergabe einer Dienstleistungskonzession",
+            "result": {
+                "sequence": "Verpflegungsleistungen an verschiedenen Schulen in Hanstedt und Jesteburg - Vergabe einer Dienstleistungskonzession",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9689239263534546,
+                    0.02361065335571766,
+                    0.007465394679456949
+                ]
+            }
+        },
+        {
+            "title": "Fr\u00fchst\u00fccksversorgung GU",
+            "result": {
+                "sequence": "Fr\u00fchst\u00fccksversorgung GU",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6549819111824036,
+                    0.25468578934669495,
+                    0.09033229947090149
+                ]
+            }
+        },
+        {
+            "title": "Lieferung von Mahlzeiten f\u00fcr das st\u00e4dtische Familienzentrum Artikus und den st\u00e4dtischen Bewegungskindergarten in Datteln (\"cook & freeze\")",
+            "result": {
+                "sequence": "Lieferung von Mahlzeiten f\u00fcr das st\u00e4dtische Familienzentrum Artikus und den st\u00e4dtischen Bewegungskindergarten in Datteln (\"cook & freeze\")",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.4860886335372925,
+                    0.37998175621032715,
+                    0.13392964005470276
+                ]
+            }
+        },
+        {
+            "title": "Dienstleistungskonzession zur Mittagsverpflegung an der Wiehengebirgsschule Melle",
+            "result": {
+                "sequence": "Dienstleistungskonzession zur Mittagsverpflegung an der Wiehengebirgsschule Melle",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.908096969127655,
+                    0.08024203032255173,
+                    0.011660951189696789
+                ]
+            }
         }
     ]
 }
