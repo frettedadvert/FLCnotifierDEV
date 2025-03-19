@@ -1599,6 +1599,54 @@
                     0.011660951189696789
                 ]
             }
+        },
+        {
+            "title": "Gro\u00dfe Wehrleitendensitzung LBD 2025",
+            "result": {
+                "sequence": "Gro\u00dfe Wehrleitendensitzung LBD 2025",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6298063397407532,
+                    0.29335200786590576,
+                    0.07684164494276047
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung in der Astrid-Lindgren-Schule an drei Wochentagen (Mo. - Mi.) ab dem Schuljahr 2025/2026 f\u00fcr die Dauer von drei Jahren plus 2 * 1 Jahr optional",
+            "result": {
+                "sequence": "Mittagsverpflegung in der Astrid-Lindgren-Schule an drei Wochentagen (Mo. - Mi.) ab dem Schuljahr 2025/2026 f\u00fcr die Dauer von drei Jahren plus 2 * 1 Jahr optional",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9558543562889099,
+                    0.030188849195837975,
+                    0.013956788927316666
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung und Snackangebot (Cafeteria) Schulen 2025 in Panketal, OT Zepernick",
+            "result": {
+                "sequence": "Mittagsverpflegung und Snackangebot (Cafeteria) Schulen 2025 in Panketal, OT Zepernick",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7673321962356567,
+                    0.22020907700061798,
+                    0.01245871651917696
+                ]
+            }
         }
     ]
 }
