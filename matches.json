@@ -1647,6 +1647,70 @@
                     0.01245871651917696
                 ]
             }
+        },
+        {
+            "title": "Kindertagesbetreuung / Lieferung einer Hauptmahlzeit f\u00fcr Krippen- und Elementarkinder",
+            "result": {
+                "sequence": "Kindertagesbetreuung / Lieferung einer Hauptmahlzeit f\u00fcr Krippen- und Elementarkinder",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.5561118721961975,
+                    0.2406797558069229,
+                    0.20320837199687958
+                ]
+            }
+        },
+        {
+            "title": "Schul\u00adver\u00adpfle\u00adgung f\u00fcr drei Grund\u00adschu\u00adlen in der VG Sel\u00adters (Los 01 - 03)",
+            "result": {
+                "sequence": "Schul\u00adver\u00adpfle\u00adgung f\u00fcr drei Grund\u00adschu\u00adlen in der VG Sel\u00adters (Los 01 - 03)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9587277173995972,
+                    0.03063870221376419,
+                    0.010633601807057858
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung an der Grund- und Mittelschule Pfaffenhofen a. d. Ilm",
+            "result": {
+                "sequence": "Schulverpflegung an der Grund- und Mittelschule Pfaffenhofen a. d. Ilm",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9703723192214966,
+                    0.02689484879374504,
+                    0.002732873195782304
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung \u00fcber Verpflegungsdienstleistungen f\u00fcr die Abschiebungshafteinrichtung Gl\u00fcckstadt",
+            "result": {
+                "sequence": "Rahmenvereinbarung \u00fcber Verpflegungsdienstleistungen f\u00fcr die Abschiebungshafteinrichtung Gl\u00fcckstadt",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9047824740409851,
+                    0.06544647365808487,
+                    0.029771070927381516
+                ]
+            }
         }
     ]
 }
