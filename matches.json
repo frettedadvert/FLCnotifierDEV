@@ -1711,6 +1711,166 @@
                     0.029771070927381516
                 ]
             }
+        },
+        {
+            "title": "Schulverpflegung - Einhardschule, Seligenstadt",
+            "result": {
+                "sequence": "Schulverpflegung - Einhardschule, Seligenstadt",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9747467041015625,
+                    0.021129177883267403,
+                    0.004124147817492485
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung - Ernst-Reuter-Schule, Dietzenbach",
+            "result": {
+                "sequence": "Schulverpflegung - Ernst-Reuter-Schule, Dietzenbach",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9848372340202332,
+                    0.013148131780326366,
+                    0.0020146341994404793
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung - Oswald-von-Nell-Breuning-Schule, R\u00f6dermark",
+            "result": {
+                "sequence": "Schulverpflegung - Oswald-von-Nell-Breuning-Schule, R\u00f6dermark",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9808765649795532,
+                    0.015208172611892223,
+                    0.0039152284152805805
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung - Dreieichschule, Langen",
+            "result": {
+                "sequence": "Schulverpflegung - Dreieichschule, Langen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9728641510009766,
+                    0.02246348187327385,
+                    0.004672315437346697
+                ]
+            }
+        },
+        {
+            "title": "Speiseversorgung der Schulen des LWV Hessen am Standort Friedberg",
+            "result": {
+                "sequence": "Speiseversorgung der Schulen des LWV Hessen am Standort Friedberg",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7380402088165283,
+                    0.14782032370567322,
+                    0.11413944512605667
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung am F\u00f6rderschulzentrum Bad Kreuznach; Lieferung von Essenskomponenten",
+            "result": {
+                "sequence": "Mittagsverpflegung am F\u00f6rderschulzentrum Bad Kreuznach; Lieferung von Essenskomponenten",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.959375262260437,
+                    0.02849407121539116,
+                    0.012130684219300747
+                ]
+            }
+        },
+        {
+            "title": "Essensversorgung (Frisch-Misch-K\u00fcche) f\u00fcr das Haus der Bildung f\u00fcr den Zeitraum 01.08.2025 bis 31.07.2028, mit Option der Verl\u00e4ngerung um ein Jahr",
+            "result": {
+                "sequence": "Essensversorgung (Frisch-Misch-K\u00fcche) f\u00fcr das Haus der Bildung f\u00fcr den Zeitraum 01.08.2025 bis 31.07.2028, mit Option der Verl\u00e4ngerung um ein Jahr",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7318937182426453,
+                    0.14733871817588806,
+                    0.1207675188779831
+                ]
+            }
+        },
+        {
+            "title": "Catering Ferien- und Freizeitangebote 2025 im Raum Oberhausen",
+            "result": {
+                "sequence": "Catering Ferien- und Freizeitangebote 2025 im Raum Oberhausen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9331430792808533,
+                    0.057562366127967834,
+                    0.009294554591178894
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an sechs weiterf\u00fchrenden Schulen in Castrop-Rauxel",
+            "result": {
+                "sequence": "Mittagsverpflegung an sechs weiterf\u00fchrenden Schulen in Castrop-Rauxel",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8858985304832458,
+                    0.09632693976163864,
+                    0.017774522304534912
+                ]
+            }
+        },
+        {
+            "title": "Lieferung der Mittagsverpflegung f\u00fcr die Grundschule der OG Gensingen",
+            "result": {
+                "sequence": "Lieferung der Mittagsverpflegung f\u00fcr die Grundschule der OG Gensingen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.845369815826416,
+                    0.13496695458889008,
+                    0.01966322772204876
+                ]
+            }
         }
     ]
 }
