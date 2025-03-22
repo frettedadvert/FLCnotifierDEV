@@ -1871,6 +1871,310 @@
                     0.01966322772204876
                 ]
             }
+        },
+        {
+            "title": "Schulverpflegung - Heinrich-Heine-Schule, Dreieich",
+            "result": {
+                "sequence": "Schulverpflegung - Heinrich-Heine-Schule, Dreieich",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9847708940505981,
+                    0.012597228400409222,
+                    0.0026318684685975313
+                ]
+            }
+        },
+        {
+            "title": "Zubereitung und Lieferung von warmem und verzehrfertigem Mittagessen f\u00fcr st\u00e4dtische Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Zubereitung und Lieferung von warmem und verzehrfertigem Mittagessen f\u00fcr st\u00e4dtische Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.4433271884918213,
+                    0.3276115357875824,
+                    0.22906121611595154
+                ]
+            }
+        },
+        {
+            "title": "Verpflegung f\u00fcr Landesschule Pforta",
+            "result": {
+                "sequence": "Verpflegung f\u00fcr Landesschule Pforta",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9577162861824036,
+                    0.024455849081277847,
+                    0.0178278386592865
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung - Einhardschule, Seligenstadt",
+            "result": {
+                "sequence": "Schulverpflegung - Einhardschule, Seligenstadt",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.974746823310852,
+                    0.021129120141267776,
+                    0.004124118480831385
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung - Ernst-Reuter-Schule, Dietzenbach",
+            "result": {
+                "sequence": "Schulverpflegung - Ernst-Reuter-Schule, Dietzenbach",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9848372340202332,
+                    0.013148162513971329,
+                    0.0020146393217146397
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung - Oswald-von-Nell-Breuning-Schule, R\u00f6dermark",
+            "result": {
+                "sequence": "Schulverpflegung - Oswald-von-Nell-Breuning-Schule, R\u00f6dermark",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9808766841888428,
+                    0.015208080410957336,
+                    0.0039152540266513824
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung - Dreieichschule, Langen",
+            "result": {
+                "sequence": "Schulverpflegung - Dreieichschule, Langen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9728645086288452,
+                    0.022463234141469002,
+                    0.004672253970056772
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung \u00fcber Verpflegungsdienstleistungen f\u00fcr die Abschiebungshafteinrichtung Gl\u00fcckstadt",
+            "result": {
+                "sequence": "Rahmenvereinbarung \u00fcber Verpflegungsdienstleistungen f\u00fcr die Abschiebungshafteinrichtung Gl\u00fcckstadt",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9047824144363403,
+                    0.0654466450214386,
+                    0.029770925641059875
+                ]
+            }
+        },
+        {
+            "title": "Speiseversorgung der Schulen des LWV Hessen am Standort Friedberg",
+            "result": {
+                "sequence": "Speiseversorgung der Schulen des LWV Hessen am Standort Friedberg",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7380392551422119,
+                    0.14782118797302246,
+                    0.11413951963186264
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung am F\u00f6rderschulzentrum Bad Kreuznach; Lieferung von Essenskomponenten",
+            "result": {
+                "sequence": "Mittagsverpflegung am F\u00f6rderschulzentrum Bad Kreuznach; Lieferung von Essenskomponenten",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9593755602836609,
+                    0.028493836522102356,
+                    0.012130611576139927
+                ]
+            }
+        },
+        {
+            "title": "Essensversorgung (Frisch-Misch-K\u00fcche) f\u00fcr das Haus der Bildung f\u00fcr den Zeitraum 01.08.2025 bis 31.07.2028, mit Option der Verl\u00e4ngerung um ein Jahr",
+            "result": {
+                "sequence": "Essensversorgung (Frisch-Misch-K\u00fcche) f\u00fcr das Haus der Bildung f\u00fcr den Zeitraum 01.08.2025 bis 31.07.2028, mit Option der Verl\u00e4ngerung um ein Jahr",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7318928837776184,
+                    0.14733918011188507,
+                    0.12076795846223831
+                ]
+            }
+        },
+        {
+            "title": "Catering Ferien- und Freizeitangebote 2025 im Raum Oberhausen",
+            "result": {
+                "sequence": "Catering Ferien- und Freizeitangebote 2025 im Raum Oberhausen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9331434369087219,
+                    0.05756204202771187,
+                    0.009294531308114529
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an sechs weiterf\u00fchrenden Schulen in Castrop-Rauxel",
+            "result": {
+                "sequence": "Mittagsverpflegung an sechs weiterf\u00fchrenden Schulen in Castrop-Rauxel",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8858987092971802,
+                    0.09632674604654312,
+                    0.017774544656276703
+                ]
+            }
+        },
+        {
+            "title": "Lieferung der Mittagsverpflegung f\u00fcr die Grundschule der OG Gensingen",
+            "result": {
+                "sequence": "Lieferung der Mittagsverpflegung f\u00fcr die Grundschule der OG Gensingen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8453698754310608,
+                    0.1349669247865677,
+                    0.019663242623209953
+                ]
+            }
+        },
+        {
+            "title": "Kindertagesbetreuung / Lieferung einer Hauptmahlzeit f\u00fcr Krippen- und Elementarkinder",
+            "result": {
+                "sequence": "Kindertagesbetreuung / Lieferung einer Hauptmahlzeit f\u00fcr Krippen- und Elementarkinder",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.5561122894287109,
+                    0.2406800389289856,
+                    0.20320765674114227
+                ]
+            }
+        },
+        {
+            "title": "Schul\u00adver\u00adpfle\u00adgung f\u00fcr drei Grund\u00adschu\u00adlen in der VG Sel\u00adters (Los 01 - 03)",
+            "result": {
+                "sequence": "Schul\u00adver\u00adpfle\u00adgung f\u00fcr drei Grund\u00adschu\u00adlen in der VG Sel\u00adters (Los 01 - 03)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9587283134460449,
+                    0.030638180673122406,
+                    0.010633488185703754
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung an der Grund- und Mittelschule Pfaffenhofen a. d. Ilm",
+            "result": {
+                "sequence": "Schulverpflegung an der Grund- und Mittelschule Pfaffenhofen a. d. Ilm",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9703720808029175,
+                    0.026895033195614815,
+                    0.0027328848373144865
+                ]
+            }
+        },
+        {
+            "title": "Gro\u00dfe Wehrleitendensitzung LBD 2025",
+            "result": {
+                "sequence": "Gro\u00dfe Wehrleitendensitzung LBD 2025",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6298062205314636,
+                    0.293351948261261,
+                    0.07684185355901718
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung in der Astrid-Lindgren-Schule an drei Wochentagen (Mo. - Mi.) ab dem Schuljahr 2025/2026 f\u00fcr die Dauer von drei Jahren plus 2 * 1 Jahr optional",
+            "result": {
+                "sequence": "Mittagsverpflegung in der Astrid-Lindgren-Schule an drei Wochentagen (Mo. - Mi.) ab dem Schuljahr 2025/2026 f\u00fcr die Dauer von drei Jahren plus 2 * 1 Jahr optional",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9558542966842651,
+                    0.03018893674015999,
+                    0.013956750743091106
+                ]
+            }
         }
     ]
 }
