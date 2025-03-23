@@ -2175,6 +2175,54 @@
                     0.013956750743091106
                 ]
             }
+        },
+        {
+            "title": "Schulverpflegung - Heinrich-Heine-Schule, Dreieich",
+            "result": {
+                "sequence": "Schulverpflegung - Heinrich-Heine-Schule, Dreieich",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9847707748413086,
+                    0.012597324326634407,
+                    0.002631877548992634
+                ]
+            }
+        },
+        {
+            "title": "Zubereitung und Lieferung von warmem und verzehrfertigem Mittagessen f\u00fcr st\u00e4dtische Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Zubereitung und Lieferung von warmem und verzehrfertigem Mittagessen f\u00fcr st\u00e4dtische Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.4433276653289795,
+                    0.3276120126247406,
+                    0.22906024754047394
+                ]
+            }
+        },
+        {
+            "title": "Verpflegung f\u00fcr Landesschule Pforta",
+            "result": {
+                "sequence": "Verpflegung f\u00fcr Landesschule Pforta",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9577162265777588,
+                    0.02445589192211628,
+                    0.01782790943980217
+                ]
+            }
         }
     ]
 }
