@@ -2223,6 +2223,54 @@
                     0.01782790943980217
                 ]
             }
+        },
+        {
+            "title": "Catering BIONNALE 2025 am 14.05.2025",
+            "result": {
+                "sequence": "Catering BIONNALE 2025 am 14.05.2025",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9570472836494446,
+                    0.03631962463259697,
+                    0.006633006501942873
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an 15 Schulstandorten in Castrop-Rauxel",
+            "result": {
+                "sequence": "Mittagsverpflegung an 15 Schulstandorten in Castrop-Rauxel",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9175460934638977,
+                    0.07193635404109955,
+                    0.010517565533518791
+                ]
+            }
+        },
+        {
+            "title": "EU-weite Ausschreibung: Lieferung der Mittagsverpflegung f\u00fcr 10 Kitas der Stadt Dorsten",
+            "result": {
+                "sequence": "EU-weite Ausschreibung: Lieferung der Mittagsverpflegung f\u00fcr 10 Kitas der Stadt Dorsten",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.777752161026001,
+                    0.1381099969148636,
+                    0.08413777500391006
+                ]
+            }
         }
     ]
 }
