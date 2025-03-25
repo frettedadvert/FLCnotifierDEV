@@ -2271,6 +2271,70 @@
                     0.08413777500391006
                 ]
             }
+        },
+        {
+            "title": "Cateringdienstleistungen f\u00fcr Fl\u00fcchtlingsunterk\u00fcnfte 55523000-2",
+            "result": {
+                "sequence": "Cateringdienstleistungen f\u00fcr Fl\u00fcchtlingsunterk\u00fcnfte 55523000-2",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9015801548957825,
+                    0.08211410045623779,
+                    0.01630568690598011
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung der Mittagsverpflegung f\u00fcr Kindergarten- u. Schulkinder vom 01.08.2025 bis 31.07.2026 als Warmverpflegung (Cook & Hold) oder K\u00fchlkostsystem (Cook & Chill)",
+            "result": {
+                "sequence": "Herstellung und Lieferung der Mittagsverpflegung f\u00fcr Kindergarten- u. Schulkinder vom 01.08.2025 bis 31.07.2026 als Warmverpflegung (Cook & Hold) oder K\u00fchlkostsystem (Cook & Chill)",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8472943902015686,
+                    0.08581192046403885,
+                    0.06689371168613434
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung f\u00fcr Catering im Young Refugee Center der Landeshauptstadt M\u00fcnchen",
+            "result": {
+                "sequence": "Rahmenvereinbarung f\u00fcr Catering im Young Refugee Center der Landeshauptstadt M\u00fcnchen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9447634816169739,
+                    0.044739317148923874,
+                    0.010497146286070347
+                ]
+            }
+        },
+        {
+            "title": "Mittagsversorgung f\u00fcr die Ganztagsgrundschule \"A. Diesterweg\"",
+            "result": {
+                "sequence": "Mittagsversorgung f\u00fcr die Ganztagsgrundschule \"A. Diesterweg\"",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7823630571365356,
+                    0.13160055875778198,
+                    0.08603638410568237
+                ]
+            }
         }
     ]
 }
