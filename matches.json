@@ -2335,6 +2335,38 @@
                     0.08603638410568237
                 ]
             }
+        },
+        {
+            "title": "Catering Mitarbeitendenveranstaltung 2025 der AOK Hessen",
+            "result": {
+                "sequence": "Catering Mitarbeitendenveranstaltung 2025 der AOK Hessen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9433808326721191,
+                    0.04533509537577629,
+                    0.01128409244120121
+                ]
+            }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Schulmittagessen, ehem. Los 31 aus Schul 11307-11337, CPV 55524000-9",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Schulmittagessen, ehem. Los 31 aus Schul 11307-11337, CPV 55524000-9",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7935070991516113,
+                    0.1544642597436905,
+                    0.052028678357601166
+                ]
+            }
         }
     ]
 }
