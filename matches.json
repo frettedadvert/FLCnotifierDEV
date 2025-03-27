@@ -2367,6 +2367,38 @@
                     0.052028678357601166
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung an Schulen (Cook & Hold)",
+            "result": {
+                "sequence": "Mittagsverpflegung an Schulen (Cook & Hold)",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8914140462875366,
+                    0.07692525535821915,
+                    0.03166070953011513
+                ]
+            }
+        },
+        {
+            "title": "Belieferung von Kindertageseinrichtungen und Schulkindbetreuung mit Mittagessen",
+            "result": {
+                "sequence": "Belieferung von Kindertageseinrichtungen und Schulkindbetreuung mit Mittagessen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.5783767104148865,
+                    0.37860554456710815,
+                    0.04301780089735985
+                ]
+            }
         }
     ]
 }
