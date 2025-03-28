@@ -2399,6 +2399,54 @@
                     0.04301780089735985
                 ]
             }
+        },
+        {
+            "title": "Essenversorgung Kita Brunnenst\u00f6rche",
+            "result": {
+                "sequence": "Essenversorgung Kita Brunnenst\u00f6rche",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5779109001159668,
+                    0.3464948236942291,
+                    0.07559429109096527
+                ]
+            }
+        },
+        {
+            "title": "Mittagessenversorgung in der Magister-Hering-Grundschule in 04758 Oschatz, Karl-Liebknecht-Stra\u00dfe 1",
+            "result": {
+                "sequence": "Mittagessenversorgung in der Magister-Hering-Grundschule in 04758 Oschatz, Karl-Liebknecht-Stra\u00dfe 1",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5371027588844299,
+                    0.29246464371681213,
+                    0.17043261229991913
+                ]
+            }
+        },
+        {
+            "title": "Gemeinde Nordkirchen - Dienstleistungskonzession Schulverpflegung",
+            "result": {
+                "sequence": "Gemeinde Nordkirchen - Dienstleistungskonzession Schulverpflegung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9833232760429382,
+                    0.010829199105501175,
+                    0.005847520660609007
+                ]
+            }
         }
     ]
 }
