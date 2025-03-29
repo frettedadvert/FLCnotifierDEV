@@ -2447,6 +2447,70 @@
                     0.005847520660609007
                 ]
             }
+        },
+        {
+            "title": "Verpachtung der Betriebskantine",
+            "result": {
+                "sequence": "Verpachtung der Betriebskantine",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8387224674224854,
+                    0.13585907220840454,
+                    0.025418441742658615
+                ]
+            }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Schulmittagessen in der Anna-Lindh-Schule - CPV-Code 55524000-9",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Schulmittagessen in der Anna-Lindh-Schule - CPV-Code 55524000-9",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8228510618209839,
+                    0.11609319597482681,
+                    0.06105576828122139
+                ]
+            }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Schulmittagessen einschlie\u00dflich eines Rohkostanteils und eines Getr\u00e4nkes",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Schulmittagessen einschlie\u00dflich eines Rohkostanteils und eines Getr\u00e4nkes",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.43338361382484436,
+                    0.4314733147621155,
+                    0.13514313101768494
+                ]
+            }
+        },
+        {
+            "title": "Konzessionsvergabe Schulverpflegung im Landkreis L\u00fcneburg",
+            "result": {
+                "sequence": "Konzessionsvergabe Schulverpflegung im Landkreis L\u00fcneburg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8515582084655762,
+                    0.11248159408569336,
+                    0.03596021980047226
+                ]
+            }
         }
     ]
 }
