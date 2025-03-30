@@ -2511,6 +2511,22 @@
                     0.03596021980047226
                 ]
             }
+        },
+        {
+            "title": "Verpachtung Kantine Iden",
+            "result": {
+                "sequence": "Verpachtung Kantine Iden",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5833325386047363,
+                    0.39566996693611145,
+                    0.020997462794184685
+                ]
+            }
         }
     ]
 }
