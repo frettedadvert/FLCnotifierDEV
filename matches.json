@@ -2527,6 +2527,54 @@
                     0.020997462794184685
                 ]
             }
+        },
+        {
+            "title": "Betrieb Mensa und Kiosk Anne-Frank-Gesamtschule",
+            "result": {
+                "sequence": "Betrieb Mensa und Kiosk Anne-Frank-Gesamtschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7556934356689453,
+                    0.15742886066436768,
+                    0.08687764406204224
+                ]
+            }
+        },
+        {
+            "title": "Dienstleistungskonzession-Schulverpflegung f\u00fcr die Grund- und Oberschule \"Mina Witkojc\" Burg (Spreewald) und Vesperversorgung f\u00fcr das Kinder- und Lernhaus Lipa",
+            "result": {
+                "sequence": "Dienstleistungskonzession-Schulverpflegung f\u00fcr die Grund- und Oberschule \"Mina Witkojc\" Burg (Spreewald) und Vesperversorgung f\u00fcr das Kinder- und Lernhaus Lipa",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9819181561470032,
+                    0.013821367174386978,
+                    0.004260464105755091
+                ]
+            }
+        },
+        {
+            "title": "Catering Mittagspause 25. Brandenburger Energietag 2025",
+            "result": {
+                "sequence": "Catering Mittagspause 25. Brandenburger Energietag 2025",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9239124655723572,
+                    0.05680499225854874,
+                    0.019282544031739235
+                ]
+            }
         }
     ]
 }
