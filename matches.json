@@ -2575,6 +2575,118 @@
                     0.019282544031739235
                 ]
             }
+        },
+        {
+            "title": "Gastronomische Bewirtschaftung Berlin",
+            "result": {
+                "sequence": "Gastronomische Bewirtschaftung Berlin",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5929483771324158,
+                    0.2277655005455017,
+                    0.17928609251976013
+                ]
+            }
+        },
+        {
+            "title": "81309954.1-Erstellung eines Konzeptes zur Etablierung von Catering-Leistungen f\u00fcr die GIZ in Berlin inkl. Erstellung von Ausschreibungsunterlagen",
+            "result": {
+                "sequence": "81309954.1-Erstellung eines Konzeptes zur Etablierung von Catering-Leistungen f\u00fcr die GIZ in Berlin inkl. Erstellung von Ausschreibungsunterlagen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9472783207893372,
+                    0.049124542623758316,
+                    0.00359705975279212
+                ]
+            }
+        },
+        {
+            "title": "Zubereitung und Lieferung von warmem und verzehrfertigem Mittagessen f\u00fcr st\u00e4dtische Grundschulen",
+            "result": {
+                "sequence": "Zubereitung und Lieferung von warmem und verzehrfertigem Mittagessen f\u00fcr st\u00e4dtische Grundschulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.4577993154525757,
+                    0.285422146320343,
+                    0.2567785978317261
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung der Mittagsverpflegung f\u00fcr Kindergarten- u. Schulkinder vom 01.08.2025 bis 31.07.2026 als Warmverpflegung (Cook & Hold)",
+            "result": {
+                "sequence": "Herstellung und Lieferung der Mittagsverpflegung f\u00fcr Kindergarten- u. Schulkinder vom 01.08.2025 bis 31.07.2026 als Warmverpflegung (Cook & Hold)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6809027194976807,
+                    0.26232147216796875,
+                    0.0567757785320282
+                ]
+            }
+        },
+        {
+            "title": "Vermietung von R\u00e4umlichkeiten f\u00fcr den Betrieb von Sch\u00fclerbistros in den Berufskollegs Geilenkirchen (Los 1) und im Berufskolleg Erkelenz (Los 2) ab 27.08.2025 (Dienstleistungskonzession)",
+            "result": {
+                "sequence": "Vermietung von R\u00e4umlichkeiten f\u00fcr den Betrieb von Sch\u00fclerbistros in den Berufskollegs Geilenkirchen (Los 1) und im Berufskolleg Erkelenz (Los 2) ab 27.08.2025 (Dienstleistungskonzession)",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.916169285774231,
+                    0.04724251478910446,
+                    0.03658818081021309
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen bei Eins\u00e4tzen aus besonderem Anlass f\u00fcr die Polizei NRW (Einsatzverpflegung)",
+            "result": {
+                "sequence": "Verpflegungsleistungen bei Eins\u00e4tzen aus besonderem Anlass f\u00fcr die Polizei NRW (Einsatzverpflegung)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9348422884941101,
+                    0.04576290771365166,
+                    0.019394801929593086
+                ]
+            }
+        },
+        {
+            "title": "Zubereitung und Lieferung von Mittagsmahlzeiten in f\u00fcnf st\u00e4dtischen Kindertageseinrichtungen in Mettmann",
+            "result": {
+                "sequence": "Zubereitung und Lieferung von Mittagsmahlzeiten in f\u00fcnf st\u00e4dtischen Kindertageseinrichtungen in Mettmann",
+                "labels": [
+                    "lebensmittel",
+                    "verpflegung",
+                    "catering"
+                ],
+                "scores": [
+                    0.46728837490081787,
+                    0.37571901082992554,
+                    0.1569925993680954
+                ]
+            }
         }
     ]
 }
