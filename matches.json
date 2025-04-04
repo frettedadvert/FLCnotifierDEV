@@ -2735,6 +2735,54 @@
                     0.008856251835823059
                 ]
             }
+        },
+        {
+            "title": "2025 - Verpflegungs- und Dienstleistungen zur Versorgung der Schulen und Kindertageseinrichtungen im Stadtgebiet Kaufbeuren",
+            "result": {
+                "sequence": "2025 - Verpflegungs- und Dienstleistungen zur Versorgung der Schulen und Kindertageseinrichtungen im Stadtgebiet Kaufbeuren",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.948148250579834,
+                    0.03460879251360893,
+                    0.017242999747395515
+                ]
+            }
+        },
+        {
+            "title": "Essensversorgung in den 3 ans\u00e4ssigen Grundschulen der Gemeinde Ottendorf-Okrilla",
+            "result": {
+                "sequence": "Essensversorgung in den 3 ans\u00e4ssigen Grundschulen der Gemeinde Ottendorf-Okrilla",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6420104503631592,
+                    0.20664216578006744,
+                    0.15134741365909576
+                ]
+            }
+        },
+        {
+            "title": "Versorgung der Michael-Ende-Grundschule (47) mit Schulessen, Fr\u00fchst\u00fcck und Vesper",
+            "result": {
+                "sequence": "Versorgung der Michael-Ende-Grundschule (47) mit Schulessen, Fr\u00fchst\u00fcck und Vesper",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7643809914588928,
+                    0.14698998630046844,
+                    0.08862899988889694
+                ]
+            }
         }
     ]
 }
