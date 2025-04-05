@@ -2783,6 +2783,54 @@
                     0.08862899988889694
                 ]
             }
+        },
+        {
+            "title": "Dienstleistungskonzession zur Sch\u00fclerverpflegung an den Schulen der Stadt Suhl Lose 1 - 10",
+            "result": {
+                "sequence": "Dienstleistungskonzession zur Sch\u00fclerverpflegung an den Schulen der Stadt Suhl Lose 1 - 10",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9191076755523682,
+                    0.05363735184073448,
+                    0.02725493721663952
+                ]
+            }
+        },
+        {
+            "title": "Betreuung der Fl\u00fcchtlingsunterkunft Ansgaristr. 12, 26382 Wilhelmshaven",
+            "result": {
+                "sequence": "Betreuung der Fl\u00fcchtlingsunterkunft Ansgaristr. 12, 26382 Wilhelmshaven",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5847644805908203,
+                    0.26273515820503235,
+                    0.15250037610530853
+                ]
+            }
+        },
+        {
+            "title": "Ganztagsversorgung u.a. Schulen/Kitas der Stadt Vetschau/Spreewald",
+            "result": {
+                "sequence": "Ganztagsversorgung u.a. Schulen/Kitas der Stadt Vetschau/Spreewald",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5359950661659241,
+                    0.33535411953926086,
+                    0.12865078449249268
+                ]
+            }
         }
     ]
 }
