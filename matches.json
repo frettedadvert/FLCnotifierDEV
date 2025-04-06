@@ -2831,6 +2831,54 @@
                     0.12865078449249268
                 ]
             }
+        },
+        {
+            "title": "Rahmenvertrag Catering",
+            "result": {
+                "sequence": "Rahmenvertrag Catering",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8791168332099915,
+                    0.11586959660053253,
+                    0.005013578571379185
+                ]
+            }
+        },
+        {
+            "title": "Be\u00adreit\u00adstel\u00adlung der Mit\u00adtags\u00adver\u00adpfle\u00adgung",
+            "result": {
+                "sequence": "Be\u00adreit\u00adstel\u00adlung der Mit\u00adtags\u00adver\u00adpfle\u00adgung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9173921942710876,
+                    0.052175551652908325,
+                    0.03043229877948761
+                ]
+            }
+        },
+        {
+            "title": "Mittagessenversorgung an zwei Jenaer Schulen: Gemeinschaftsschule Kulturanum & Gymnasium Otto- Schott",
+            "result": {
+                "sequence": "Mittagessenversorgung an zwei Jenaer Schulen: Gemeinschaftsschule Kulturanum & Gymnasium Otto- Schott",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6049228310585022,
+                    0.25339412689208984,
+                    0.14168301224708557
+                ]
+            }
         }
     ]
 }
