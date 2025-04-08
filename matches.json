@@ -2879,6 +2879,118 @@
                     0.14168301224708557
                 ]
             }
+        },
+        {
+            "title": "Landeshauptstadt Schwerin - Verpflegung/Getr\u00e4nke f\u00fcr Bewohner der Gemeinschaftsunterkunft Werkstra\u00dfe 209",
+            "result": {
+                "sequence": "Landeshauptstadt Schwerin - Verpflegung/Getr\u00e4nke f\u00fcr Bewohner der Gemeinschaftsunterkunft Werkstra\u00dfe 209",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9753005504608154,
+                    0.017512504011392593,
+                    0.007186968345195055
+                ]
+            }
+        },
+        {
+            "title": "\u00dcbernahme von Verpflegungsleistungen in Managementverantwortung in der Mensa der Auguste Viktoria Schule",
+            "result": {
+                "sequence": "\u00dcbernahme von Verpflegungsleistungen in Managementverantwortung in der Mensa der Auguste Viktoria Schule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9595395922660828,
+                    0.030414782464504242,
+                    0.01004556380212307
+                ]
+            }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Schulmittagessen in der 49. Grundschule Berlin-Mitte - CPV-Code 55524000-9",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Schulmittagessen in der 49. Grundschule Berlin-Mitte - CPV-Code 55524000-9",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7583309412002563,
+                    0.15148091316223145,
+                    0.090188167989254
+                ]
+            }
+        },
+        {
+            "title": "Einf\u00fchrung von Catering f\u00fcr 5 st\u00e4dtische Kitas - Lieferung von Mittagessen und Snacks sowie Einsatz von Sp\u00fclkr\u00e4ften",
+            "result": {
+                "sequence": "Einf\u00fchrung von Catering f\u00fcr 5 st\u00e4dtische Kitas - Lieferung von Mittagessen und Snacks sowie Einsatz von Sp\u00fclkr\u00e4ften",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9448080062866211,
+                    0.042118676006793976,
+                    0.013073337264358997
+                ]
+            }
+        },
+        {
+            "title": "Essenversorgung (Verpflegung) st\u00e4dtischer Kindertageseinrichtungen und Schulen der Stadtverwaltung Hagenow",
+            "result": {
+                "sequence": "Essenversorgung (Verpflegung) st\u00e4dtischer Kindertageseinrichtungen und Schulen der Stadtverwaltung Hagenow",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.956439733505249,
+                    0.032903771847486496,
+                    0.01065647043287754
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung Paderborn",
+            "result": {
+                "sequence": "Schulverpflegung Paderborn",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9499108195304871,
+                    0.02703840844333172,
+                    0.023050781339406967
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung in der Regenbogenschule an vier Wochentagen (Mo. - Do.) ab dem Schuljahr 2025/2026 f\u00fcr die Dauer von zwei Jahren plus 2 * 1 Jahr optional",
+            "result": {
+                "sequence": "Mittagsverpflegung in der Regenbogenschule an vier Wochentagen (Mo. - Do.) ab dem Schuljahr 2025/2026 f\u00fcr die Dauer von zwei Jahren plus 2 * 1 Jahr optional",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9434088468551636,
+                    0.03818167373538017,
+                    0.018409404903650284
+                ]
+            }
         }
     ]
 }
