@@ -2991,6 +2991,22 @@
                     0.018409404903650284
                 ]
             }
+        },
+        {
+            "title": "Stadt Wagh\u00e4usel: Essensversorgung Kita",
+            "result": {
+                "sequence": "Stadt Wagh\u00e4usel: Essensversorgung Kita",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7088039517402649,
+                    0.18061819672584534,
+                    0.11057788878679276
+                ]
+            }
         }
     ]
 }
