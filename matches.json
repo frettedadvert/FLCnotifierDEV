@@ -3007,6 +3007,86 @@
                     0.11057788878679276
                 ]
             }
+        },
+        {
+            "title": "Kauf und Lieferung von Verpackungsmaterialien f\u00fcr die Kantine",
+            "result": {
+                "sequence": "Kauf und Lieferung von Verpackungsmaterialien f\u00fcr die Kantine",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6729260683059692,
+                    0.2843175530433655,
+                    0.04275638237595558
+                ]
+            }
+        },
+        {
+            "title": "K\u00fcchenserviceleistungen",
+            "result": {
+                "sequence": "K\u00fcchenserviceleistungen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5346510410308838,
+                    0.3103312849998474,
+                    0.1550176590681076
+                ]
+            }
+        },
+        {
+            "title": "Catering safeND 2025",
+            "result": {
+                "sequence": "Catering safeND 2025",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8534886240959167,
+                    0.11880887299776077,
+                    0.027702558785676956
+                ]
+            }
+        },
+        {
+            "title": "Ausschreibung von Cateringleistungen f\u00fcr das B\u00fcgerheim Rheinfelden",
+            "result": {
+                "sequence": "Ausschreibung von Cateringleistungen f\u00fcr das B\u00fcgerheim Rheinfelden",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8442050814628601,
+                    0.14224599301815033,
+                    0.013548935763537884
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung Wormser Ganztagsschulen",
+            "result": {
+                "sequence": "Mittagsverpflegung Wormser Ganztagsschulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9204803109169006,
+                    0.05661412328481674,
+                    0.02290559746325016
+                ]
+            }
         }
     ]
 }
