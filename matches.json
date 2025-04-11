@@ -3087,6 +3087,118 @@
                     0.02290559746325016
                 ]
             }
+        },
+        {
+            "title": "\"Bewirtschaftung der Kantine im Nieders\u00e4chsischen Ministerium f\u00fcr Ern\u00e4hrung, Landwirtschaft und Verbraucherschutz (ML)\"",
+            "result": {
+                "sequence": "\"Bewirtschaftung der Kantine im Nieders\u00e4chsischen Ministerium f\u00fcr Ern\u00e4hrung, Landwirtschaft und Verbraucherschutz (ML)\"",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.49360719323158264,
+                    0.45809206366539,
+                    0.04830075800418854
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung f\u00fcr 17 Koblenzer Ganztagsschulen",
+            "result": {
+                "sequence": "Mittagsverpflegung f\u00fcr 17 Koblenzer Ganztagsschulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9354066848754883,
+                    0.05129016563296318,
+                    0.013303171843290329
+                ]
+            }
+        },
+        {
+            "title": "Lieferung von warmen Mittagessen f\u00fcr die Gesamtschule Windeck",
+            "result": {
+                "sequence": "Lieferung von warmen Mittagessen f\u00fcr die Gesamtschule Windeck",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5884419083595276,
+                    0.22276563942432404,
+                    0.18879249691963196
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung f\u00fcr weiterf\u00fchrende Schulen in Br\u00fchl",
+            "result": {
+                "sequence": "Schulverpflegung f\u00fcr weiterf\u00fchrende Schulen in Br\u00fchl",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9373241066932678,
+                    0.055161599069833755,
+                    0.007514243014156818
+                ]
+            }
+        },
+        {
+            "title": "Catering Sportpark Lohrheide",
+            "result": {
+                "sequence": "Catering Sportpark Lohrheide",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9655114412307739,
+                    0.02900494635105133,
+                    0.00548367528244853
+                ]
+            }
+        },
+        {
+            "title": "Mittagsversorgung der Sch\u00fclerinnen und Sch\u00fcler der Elisabeth-von-Schlieben-Grundschule in Halbe",
+            "result": {
+                "sequence": "Mittagsversorgung der Sch\u00fclerinnen und Sch\u00fcler der Elisabeth-von-Schlieben-Grundschule in Halbe",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6600018739700317,
+                    0.19587421417236328,
+                    0.1441238820552826
+                ]
+            }
+        },
+        {
+            "title": "Catering im Rahmen des INTERREG VI A-Programms Brandenburg-Polen f\u00fcr 2 Schulungen",
+            "result": {
+                "sequence": "Catering im Rahmen des INTERREG VI A-Programms Brandenburg-Polen f\u00fcr 2 Schulungen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9725954532623291,
+                    0.02299797348678112,
+                    0.004406508523970842
+                ]
+            }
         }
     ]
 }
