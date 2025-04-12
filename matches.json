@@ -3199,6 +3199,118 @@
                     0.004406508523970842
                 ]
             }
+        },
+        {
+            "title": "Ver\u00adan\u00adstal\u00adtungs\u00adort in\u00adkl. Ca\u00adte\u00adring und Tech\u00adnik f\u00fcr das 100xDi\u00adgi\u00adtal Bar\u00adcamp",
+            "result": {
+                "sequence": "Ver\u00adan\u00adstal\u00adtungs\u00adort in\u00adkl. Ca\u00adte\u00adring und Tech\u00adnik f\u00fcr das 100xDi\u00adgi\u00adtal Bar\u00adcamp",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7140009999275208,
+                    0.24458180367946625,
+                    0.04141721501946449
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung inkl. Mietger\u00e4te GS Fa\u00dfberg",
+            "result": {
+                "sequence": "Mittagsverpflegung inkl. Mietger\u00e4te GS Fa\u00dfberg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8160117864608765,
+                    0.1345674842596054,
+                    0.04942074045538902
+                ]
+            }
+        },
+        {
+            "title": "Mit\u00adtags\u00adver\u00adpfle\u00adgung an 2 Kin\u00adder\u00adta\u00adges\u00adst\u00e4t\u00adten der Stadt Wald\u00admohr",
+            "result": {
+                "sequence": "Mit\u00adtags\u00adver\u00adpfle\u00adgung an 2 Kin\u00adder\u00adta\u00adges\u00adst\u00e4t\u00adten der Stadt Wald\u00admohr",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9629434943199158,
+                    0.022429179400205612,
+                    0.014627357013523579
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an Mannheimer Schulen EU 1",
+            "result": {
+                "sequence": "Mittagsverpflegung an Mannheimer Schulen EU 1",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9410073161125183,
+                    0.048654038459062576,
+                    0.010338673368096352
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvertrag f\u00fcr Catering im Young Refugee Center",
+            "result": {
+                "sequence": "Rahmenvertrag f\u00fcr Catering im Young Refugee Center",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.876384973526001,
+                    0.09761128574609756,
+                    0.02600371278822422
+                ]
+            }
+        },
+        {
+            "title": "Catering Fl\u00fcchtlingsunterkunft Unterstr. 66a in Bochum",
+            "result": {
+                "sequence": "Catering Fl\u00fcchtlingsunterkunft Unterstr. 66a in Bochum",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9602290987968445,
+                    0.031018881127238274,
+                    0.008752071298658848
+                ]
+            }
+        },
+        {
+            "title": "Catering Kolloquium \"Von der IBA F\u00fcrst P\u00fcckler Land zur Zukunftsausstellung Lausitz\"",
+            "result": {
+                "sequence": "Catering Kolloquium \"Von der IBA F\u00fcrst P\u00fcckler Land zur Zukunftsausstellung Lausitz\"",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.944481611251831,
+                    0.0440061092376709,
+                    0.0115122739225626
+                ]
+            }
         }
     ]
 }
