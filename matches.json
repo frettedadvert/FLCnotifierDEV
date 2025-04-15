@@ -3311,6 +3311,182 @@
                     0.0115122739225626
                 ]
             }
+        },
+        {
+            "title": "Catering Pako Subsahara Afrika 9.9 - 11.9.2025 in Gie\u00dfen",
+            "result": {
+                "sequence": "Catering Pako Subsahara Afrika 9.9 - 11.9.2025 in Gie\u00dfen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9501413106918335,
+                    0.04026470333337784,
+                    0.009593978524208069
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung Verpflegung von Gefl\u00fcchteten in der Landesunterkunft Boostedt",
+            "result": {
+                "sequence": "Rahmenvereinbarung Verpflegung von Gefl\u00fcchteten in der Landesunterkunft Boostedt",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9241288900375366,
+                    0.06116662919521332,
+                    0.01470447052270174
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung Mittagessen und Nachmittagssnack f\u00fcr das Los 2 OGS Gruiten",
+            "result": {
+                "sequence": "Rahmenvereinbarung Mittagessen und Nachmittagssnack f\u00fcr das Los 2 OGS Gruiten",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5685673952102661,
+                    0.2947603762149811,
+                    0.136672243475914
+                ]
+            }
+        },
+        {
+            "title": "Verpflegung EAEH",
+            "result": {
+                "sequence": "Verpflegung EAEH",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.926622211933136,
+                    0.053497958928346634,
+                    0.01987983100116253
+                ]
+            }
+        },
+        {
+            "title": "Schulkantinenservice",
+            "result": {
+                "sequence": "Schulkantinenservice",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5301522612571716,
+                    0.39371100068092346,
+                    0.07613672316074371
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung Mittagessen und Nachmittagssnack f\u00fcr das Los 1 OGS Don Bosco",
+            "result": {
+                "sequence": "Rahmenvereinbarung Mittagessen und Nachmittagssnack f\u00fcr das Los 1 OGS Don Bosco",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6079958081245422,
+                    0.30617931485176086,
+                    0.0858248695731163
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung Cateringdienstleistungen",
+            "result": {
+                "sequence": "Rahmenvereinbarung Cateringdienstleistungen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9142473340034485,
+                    0.0733816847205162,
+                    0.012371011078357697
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung Grundschulen Bad Neuenahr-Ahrweiler",
+            "result": {
+                "sequence": "Mittagsverpflegung Grundschulen Bad Neuenahr-Ahrweiler",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.967515766620636,
+                    0.024409865960478783,
+                    0.008074386976659298
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung Verpflegung von Gefl\u00fcchteten in der Landesunterkunft Bad Segeberg",
+            "result": {
+                "sequence": "Rahmenvereinbarung Verpflegung von Gefl\u00fcchteten in der Landesunterkunft Bad Segeberg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9209808707237244,
+                    0.0706101506948471,
+                    0.008408968336880207
+                ]
+            }
+        },
+        {
+            "title": "Offenes Verfahren f\u00fcr die Lieferung der Mittagstischverpflegung an den Schulen in der Tr\u00e4gerschaft der Stadt Ulm nach VgV",
+            "result": {
+                "sequence": "Offenes Verfahren f\u00fcr die Lieferung der Mittagstischverpflegung an den Schulen in der Tr\u00e4gerschaft der Stadt Ulm nach VgV",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8784478902816772,
+                    0.10083243250846863,
+                    0.020719662308692932
+                ]
+            }
+        },
+        {
+            "title": "Lieferung der Mittagsverpflegung f\u00fcr die Kita Lummerland in der OG Schwabenheim",
+            "result": {
+                "sequence": "Lieferung der Mittagsverpflegung f\u00fcr die Kita Lummerland in der OG Schwabenheim",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8333002328872681,
+                    0.1434790939092636,
+                    0.02322068065404892
+                ]
+            }
         }
     ]
 }
