@@ -3487,6 +3487,38 @@
                     0.02322068065404892
                 ]
             }
+        },
+        {
+            "title": "Grund\u00adschu\u00adle Bi\u00adber\u00adach - Mittagsverpflegung inkl. Sch\u00f6pfkr\u00e4fte",
+            "result": {
+                "sequence": "Grund\u00adschu\u00adle Bi\u00adber\u00adach - Mittagsverpflegung inkl. Sch\u00f6pfkr\u00e4fte",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8243409991264343,
+                    0.14765998721122742,
+                    0.027999071404337883
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Verpflegungsleistungen f\u00fcr kommunale Kindertagesst\u00e4tten, Schulen und Horte",
+            "result": {
+                "sequence": "Vergabe von Verpflegungsleistungen f\u00fcr kommunale Kindertagesst\u00e4tten, Schulen und Horte",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9195657968521118,
+                    0.06514732539653778,
+                    0.015286856330931187
+                ]
+            }
         }
     ]
 }
