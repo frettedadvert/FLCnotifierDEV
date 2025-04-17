@@ -3519,6 +3519,70 @@
                     0.015286856330931187
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung an den staatlichen Ganztagsschulen in Mainz",
+            "result": {
+                "sequence": "Mittagsverpflegung an den staatlichen Ganztagsschulen in Mainz",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9395734071731567,
+                    0.03870857134461403,
+                    0.021718034520745277
+                ]
+            }
+        },
+        {
+            "title": "Catering in st\u00e4dtischen Unterbringungseinrichtungen der Landeshauptstadt M\u00fcnchen",
+            "result": {
+                "sequence": "Catering in st\u00e4dtischen Unterbringungseinrichtungen der Landeshauptstadt M\u00fcnchen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9596878290176392,
+                    0.032514531165361404,
+                    0.007797644007951021
+                ]
+            }
+        },
+        {
+            "title": "Essensanbieter Amtsgebiet",
+            "result": {
+                "sequence": "Essensanbieter Amtsgebiet",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6587371826171875,
+                    0.206004336476326,
+                    0.1352584809064865
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung Ganztagsschule Astrid-Lindgren",
+            "result": {
+                "sequence": "Mittagsverpflegung Ganztagsschule Astrid-Lindgren",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9220198392868042,
+                    0.06517226248979568,
+                    0.012807875871658325
+                ]
+            }
         }
     ]
 }
