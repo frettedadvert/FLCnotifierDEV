@@ -3583,6 +3583,102 @@
                     0.012807875871658325
                 ]
             }
+        },
+        {
+            "title": "Rahmenvereinbarung \u00fcber nachhaltiges Catering",
+            "result": {
+                "sequence": "Rahmenvereinbarung \u00fcber nachhaltiges Catering",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8378506302833557,
+                    0.1492796391248703,
+                    0.01286972314119339
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung f\u00fcr drei Grundschulen der Verbandsgemeinde",
+            "result": {
+                "sequence": "Mittagsverpflegung f\u00fcr drei Grundschulen der Verbandsgemeinde",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9824253916740417,
+                    0.01266598328948021,
+                    0.00490859430283308
+                ]
+            }
+        },
+        {
+            "title": "Abschluss einer Rahmenvereinbarung zur Lieferung von Lebensmitteln an verschiedene Einrichtungen Angebotswettbewerb",
+            "result": {
+                "sequence": "Abschluss einer Rahmenvereinbarung zur Lieferung von Lebensmitteln an verschiedene Einrichtungen Angebotswettbewerb",
+                "labels": [
+                    "lebensmittel",
+                    "verpflegung",
+                    "catering"
+                ],
+                "scores": [
+                    0.8059003949165344,
+                    0.1828225702047348,
+                    0.011277049779891968
+                ]
+            }
+        },
+        {
+            "title": "Catering",
+            "result": {
+                "sequence": "Catering",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8524673581123352,
+                    0.12813864648342133,
+                    0.019394008442759514
+                ]
+            }
+        },
+        {
+            "title": "Cateringleistungen f\u00fcr die Oscar-Paret-Schule ab dem Schuljahr 2025/2026",
+            "result": {
+                "sequence": "Cateringleistungen f\u00fcr die Oscar-Paret-Schule ab dem Schuljahr 2025/2026",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9310790300369263,
+                    0.0587325282394886,
+                    0.010188520886003971
+                ]
+            }
+        },
+        {
+            "title": "Lieferung von Mittagessen an Kindertagesst\u00e4tten",
+            "result": {
+                "sequence": "Lieferung von Mittagessen an Kindertagesst\u00e4tten",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.5040860772132874,
+                    0.359406054019928,
+                    0.13650788366794586
+                ]
+            }
         }
     ]
 }
