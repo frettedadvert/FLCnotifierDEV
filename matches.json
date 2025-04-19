@@ -3679,6 +3679,38 @@
                     0.13650788366794586
                 ]
             }
+        },
+        {
+            "title": "Schulverpflegung f\u00fcr das Schulzentrum Hamburger Stra\u00dfe (SHS), Bremerhaven",
+            "result": {
+                "sequence": "Schulverpflegung f\u00fcr das Schulzentrum Hamburger Stra\u00dfe (SHS), Bremerhaven",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.987226128578186,
+                    0.009289000183343887,
+                    0.003484845394268632
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung Kardinal-von-Galen Schule",
+            "result": {
+                "sequence": "Mittagsverpflegung Kardinal-von-Galen Schule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9573748111724854,
+                    0.034997522830963135,
+                    0.007627657614648342
+                ]
+            }
         }
     ]
 }
