@@ -3711,6 +3711,22 @@
                     0.007627657614648342
                 ]
             }
+        },
+        {
+            "title": "Nieders\u00e4chsisches Staatsbad Pyrmont Betriebsgesellschaft mbH - Vergabe von Catering-Dienstleistungen f\u00fcr Objekte in Bad Pyrmont und Bad Nenndorf",
+            "result": {
+                "sequence": "Nieders\u00e4chsisches Staatsbad Pyrmont Betriebsgesellschaft mbH - Vergabe von Catering-Dienstleistungen f\u00fcr Objekte in Bad Pyrmont und Bad Nenndorf",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8996944427490234,
+                    0.08356857299804688,
+                    0.01673704758286476
+                ]
+            }
         }
     ]
 }
