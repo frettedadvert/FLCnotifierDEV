@@ -3727,6 +3727,118 @@
                     0.01673704758286476
                 ]
             }
+        },
+        {
+            "title": "Nddtl: Catering f\u00fcr Kitas 2025 und 2026",
+            "result": {
+                "sequence": "Nddtl: Catering f\u00fcr Kitas 2025 und 2026",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7998057007789612,
+                    0.17756755650043488,
+                    0.022626761347055435
+                ]
+            }
+        },
+        {
+            "title": "In\u00adter\u00ades\u00adsen\u00adbe\u00adkun\u00addungs\u00adver\u00adfah\u00adren der Stadt Neu\u00adwied zur Ein\u00adrich\u00adtung ei\u00adner Mit\u00adtags\u00adver\u00adpfle\u00adgung an der Ge\u00adschwis\u00adter Scholl Schu\u00adle und Fried\u00adrich-Ebert Schu\u00adle Neu\u00adwied",
+            "result": {
+                "sequence": "In\u00adter\u00ades\u00adsen\u00adbe\u00adkun\u00addungs\u00adver\u00adfah\u00adren der Stadt Neu\u00adwied zur Ein\u00adrich\u00adtung ei\u00adner Mit\u00adtags\u00adver\u00adpfle\u00adgung an der Ge\u00adschwis\u00adter Scholl Schu\u00adle und Fried\u00adrich-Ebert Schu\u00adle Neu\u00adwied",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.92189621925354,
+                    0.04165424779057503,
+                    0.03644952550530434
+                ]
+            }
+        },
+        {
+            "title": "Aus\u00adschrei\u00adbung f\u00fcr R\u00e4um\u00adlich\u00adkei\u00adten, Tech\u00adni\u00adkaus\u00adstat\u00adtung, Ca\u00adte\u00adring so\u00adwie \u00dcber\u00adnach\u00adtungs\u00adm\u00f6glich\u00adkei\u00adten f\u00fcr die Netz\u00adwerk\u00adta\u00adgung des eu\u00adro\u00adp\u00e4i\u00adschen Eu\u00adro\u00addesk-Netz\u00adwerks 2026",
+            "result": {
+                "sequence": "Aus\u00adschrei\u00adbung f\u00fcr R\u00e4um\u00adlich\u00adkei\u00adten, Tech\u00adni\u00adkaus\u00adstat\u00adtung, Ca\u00adte\u00adring so\u00adwie \u00dcber\u00adnach\u00adtungs\u00adm\u00f6glich\u00adkei\u00adten f\u00fcr die Netz\u00adwerk\u00adta\u00adgung des eu\u00adro\u00adp\u00e4i\u00adschen Eu\u00adro\u00addesk-Netz\u00adwerks 2026",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.659691333770752,
+                    0.2262953221797943,
+                    0.11401336640119553
+                ]
+            }
+        },
+        {
+            "title": "Mit\u00adtags\u00adver\u00adpfle\u00adgung Erich-K\u00e4st\u00adner-Re\u00adal\u00adschu\u00adle Plus",
+            "result": {
+                "sequence": "Mit\u00adtags\u00adver\u00adpfle\u00adgung Erich-K\u00e4st\u00adner-Re\u00adal\u00adschu\u00adle Plus",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9669007062911987,
+                    0.01734025403857231,
+                    0.01575906202197075
+                ]
+            }
+        },
+        {
+            "title": "Interimsvergabe - Verpflegung von Gefl\u00fcchteten in der Landesunterkunft Segeberg",
+            "result": {
+                "sequence": "Interimsvergabe - Verpflegung von Gefl\u00fcchteten in der Landesunterkunft Segeberg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9568207859992981,
+                    0.037747424095869064,
+                    0.0054317498579621315
+                ]
+            }
+        },
+        {
+            "title": "Interimsvergabe - Verpflegung von Gefl\u00fcchteten in der Landesunterkunft Boostedt",
+            "result": {
+                "sequence": "Interimsvergabe - Verpflegung von Gefl\u00fcchteten in der Landesunterkunft Boostedt",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9512675404548645,
+                    0.039537154138088226,
+                    0.009195269085466862
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsdienstleistungen Notunterk\u00fcnfte",
+            "result": {
+                "sequence": "Verpflegungsdienstleistungen Notunterk\u00fcnfte",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8329710364341736,
+                    0.08562939614057541,
+                    0.08139954507350922
+                ]
+            }
         }
     ]
 }
