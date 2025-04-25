@@ -3839,6 +3839,54 @@
                     0.08139954507350922
                 ]
             }
+        },
+        {
+            "title": "Her\u00adstel\u00adlung und Lie\u00adfe\u00adrung von Mit\u00adtags\u00adver\u00adpfle\u00adgung f\u00fcr die Ki\u00adta Sie\u00adfers\u00adheim",
+            "result": {
+                "sequence": "Her\u00adstel\u00adlung und Lie\u00adfe\u00adrung von Mit\u00adtags\u00adver\u00adpfle\u00adgung f\u00fcr die Ki\u00adta Sie\u00adfers\u00adheim",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9191397428512573,
+                    0.04760926216840744,
+                    0.03325102478265762
+                ]
+            }
+        },
+        {
+            "title": "Bewirtschaftung von Cafeterien an der Universit\u00e4t der K\u00fcnste Berlin",
+            "result": {
+                "sequence": "Bewirtschaftung von Cafeterien an der Universit\u00e4t der K\u00fcnste Berlin",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7298807501792908,
+                    0.22512613236904144,
+                    0.044993117451667786
+                ]
+            }
+        },
+        {
+            "title": "Sch\u00fclerspeisung Gymnasium R\u00fcdersdorf",
+            "result": {
+                "sequence": "Sch\u00fclerspeisung Gymnasium R\u00fcdersdorf",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7749337553977966,
+                    0.18119972944259644,
+                    0.043866489082574844
+                ]
+            }
         }
     ]
 }
