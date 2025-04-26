@@ -3887,6 +3887,102 @@
                     0.043866489082574844
                 ]
             }
+        },
+        {
+            "title": "Bereitstellung von \u00dcbernachtungen, Tagungsraum, Technik und Verpflegung",
+            "result": {
+                "sequence": "Bereitstellung von \u00dcbernachtungen, Tagungsraum, Technik und Verpflegung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7851372957229614,
+                    0.13417717814445496,
+                    0.08068551868200302
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung Kitas ab 2025 in der Verbandsgemeinde Bad Ems-Nassau",
+            "result": {
+                "sequence": "Mittagsverpflegung Kitas ab 2025 in der Verbandsgemeinde Bad Ems-Nassau",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8658598065376282,
+                    0.08710122108459473,
+                    0.047039005905389786
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistung Stadt Wernau (Neckar)",
+            "result": {
+                "sequence": "Verpflegungsleistung Stadt Wernau (Neckar)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9653899669647217,
+                    0.01796254888176918,
+                    0.016647497192025185
+                ]
+            }
+        },
+        {
+            "title": "Bewirtschaftung von 3 Betriebsrestaurants in Essen, Bottrop und Dinslaken",
+            "result": {
+                "sequence": "Bewirtschaftung von 3 Betriebsrestaurants in Essen, Bottrop und Dinslaken",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8227018713951111,
+                    0.14305122196674347,
+                    0.03424695134162903
+                ]
+            }
+        },
+        {
+            "title": "8. Staffel Verpflegungsdienstleistung",
+            "result": {
+                "sequence": "8. Staffel Verpflegungsdienstleistung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9107476472854614,
+                    0.06358882784843445,
+                    0.02566349133849144
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistung f\u00fcr die Justizvollzugsanstalt Ravensburg",
+            "result": {
+                "sequence": "Verpflegungsleistung f\u00fcr die Justizvollzugsanstalt Ravensburg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9635658264160156,
+                    0.025821607559919357,
+                    0.010612568818032742
+                ]
+            }
         }
     ]
 }
