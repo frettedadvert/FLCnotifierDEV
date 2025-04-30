@@ -3983,6 +3983,118 @@
                     0.010612568818032742
                 ]
             }
+        },
+        {
+            "title": "Sch\u00fclerverpflegung Gemeinde Unterf\u00f6hring",
+            "result": {
+                "sequence": "Sch\u00fclerverpflegung Gemeinde Unterf\u00f6hring",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.932478666305542,
+                    0.04997415468096733,
+                    0.017547206953167915
+                ]
+            }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Schulmittagessen im Bezirk Neuk\u00f6lln",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Schulmittagessen im Bezirk Neuk\u00f6lln",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5198320150375366,
+                    0.2823091745376587,
+                    0.19785873591899872
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an sechs Ganztagsschulen und einer Grundschule",
+            "result": {
+                "sequence": "Mittagsverpflegung an sechs Ganztagsschulen und einer Grundschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9210171103477478,
+                    0.06576448678970337,
+                    0.013218442909419537
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsdienstleistungen NU PRK GT",
+            "result": {
+                "sequence": "Verpflegungsdienstleistungen NU PRK GT",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9337164759635925,
+                    0.0393792986869812,
+                    0.026904191821813583
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvertrages zur Erbringung von Serviceleistungen w\u00e4hrend des Mensabetriebes an 5 Schulen; Serviceleistungen",
+            "result": {
+                "sequence": "Rahmenvertrages zur Erbringung von Serviceleistungen w\u00e4hrend des Mensabetriebes an 5 Schulen; Serviceleistungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7545110583305359,
+                    0.16466407477855682,
+                    0.08082488924264908
+                ]
+            }
+        },
+        {
+            "title": "Cateringleistungen f\u00fcr Mittagessen in st\u00e4dtischen Einrichtungen der Kindertagesbetreuung in der Stadt Landshut",
+            "result": {
+                "sequence": "Cateringleistungen f\u00fcr Mittagessen in st\u00e4dtischen Einrichtungen der Kindertagesbetreuung in der Stadt Landshut",
+                "labels": [
+                    "catering",
+                    "lebensmittel",
+                    "verpflegung"
+                ],
+                "scores": [
+                    0.93663090467453,
+                    0.035816945135593414,
+                    0.027552206069231033
+                ]
+            }
+        },
+        {
+            "title": "Sch\u00fclerspeisung FS SEE",
+            "result": {
+                "sequence": "Sch\u00fclerspeisung FS SEE",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7920956015586853,
+                    0.1104099303483963,
+                    0.0974944457411766
+                ]
+            }
         }
     ]
 }
