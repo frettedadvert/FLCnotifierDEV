@@ -4111,6 +4111,54 @@
                     0.059471845626831055
                 ]
             }
+        },
+        {
+            "title": "Catering und Lunchpakete f\u00fcr die EAE Garmischer Stra\u00dfe 2-12, 80339 M\u00fcnchen",
+            "result": {
+                "sequence": "Catering und Lunchpakete f\u00fcr die EAE Garmischer Stra\u00dfe 2-12, 80339 M\u00fcnchen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9655863642692566,
+                    0.029390377923846245,
+                    0.005023326724767685
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen f\u00fcr Kindertageseinrichtungen der Stadt Starnberg",
+            "result": {
+                "sequence": "Verpflegungsleistungen f\u00fcr Kindertageseinrichtungen der Stadt Starnberg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9276507496833801,
+                    0.061226800084114075,
+                    0.011122471652925014
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung - Herstellung / Zubereitung und Lieferung von Verpflegung f\u00fcr die Ferienprogramme \"Kindercamp\" und \"Atlantis\"",
+            "result": {
+                "sequence": "Rahmenvereinbarung - Herstellung / Zubereitung und Lieferung von Verpflegung f\u00fcr die Ferienprogramme \"Kindercamp\" und \"Atlantis\"",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8613815307617188,
+                    0.07938308268785477,
+                    0.05923539772629738
+                ]
+            }
         }
     ]
 }
