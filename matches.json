@@ -4159,6 +4159,326 @@
                     0.05923539772629738
                 ]
             }
+        },
+        {
+            "title": "Schulverpflegung an der Grund- und Mittelschule Pfaffenhofen a. d. Ilm",
+            "result": {
+                "sequence": "Schulverpflegung an der Grund- und Mittelschule Pfaffenhofen a. d. Ilm",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9703721404075623,
+                    0.026894960552453995,
+                    0.0027328836731612682
+                ]
+            }
+        },
+        {
+            "title": "Verpflegung EAEH",
+            "result": {
+                "sequence": "Verpflegung EAEH",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9266225695610046,
+                    0.05349782481789589,
+                    0.019879592582583427
+                ]
+            }
+        },
+        {
+            "title": "W0453 - Vergabe \u00fcber die bewirtschaftete Betreuung am StO Roth",
+            "result": {
+                "sequence": "W0453 - Vergabe \u00fcber die bewirtschaftete Betreuung am StO Roth",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9491797089576721,
+                    0.028915580362081528,
+                    0.02190469205379486
+                ]
+            }
+        },
+        {
+            "title": "Rhine-Ruhr 2025 FISU GAMES - RV Cateringdienstleistungen Berlin",
+            "result": {
+                "sequence": "Rhine-Ruhr 2025 FISU GAMES - RV Cateringdienstleistungen Berlin",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8722440004348755,
+                    0.10944215953350067,
+                    0.018313832581043243
+                ]
+            }
+        },
+        {
+            "title": "Bewirtschaftung von Kantinen",
+            "result": {
+                "sequence": "Bewirtschaftung von Kantinen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5919955968856812,
+                    0.2255309522151947,
+                    0.18247352540493011
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung weiterf\u00fchrende Schulen - 4 Lose",
+            "result": {
+                "sequence": "Schulverpflegung weiterf\u00fchrende Schulen - 4 Lose",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9277468323707581,
+                    0.05805781111121178,
+                    0.0141953369602561
+                ]
+            }
+        },
+        {
+            "title": "Sch\u00fclerspeisung FS Neuenhagen",
+            "result": {
+                "sequence": "Sch\u00fclerspeisung FS Neuenhagen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8334670066833496,
+                    0.09847693145275116,
+                    0.06805606931447983
+                ]
+            }
+        },
+        {
+            "title": "Catering zum Festakt der 250- Jahr-Feier der Technischen Universit\u00e4t Clausthal",
+            "result": {
+                "sequence": "Catering zum Festakt der 250- Jahr-Feier der Technischen Universit\u00e4t Clausthal",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9711061120033264,
+                    0.024027813225984573,
+                    0.004866124130785465
+                ]
+            }
+        },
+        {
+            "title": "Universit\u00e4t zu K\u00f6ln - Mittagsverpflegung der Kindertagesst\u00e4tten im Weyertal 111",
+            "result": {
+                "sequence": "Universit\u00e4t zu K\u00f6ln - Mittagsverpflegung der Kindertagesst\u00e4tten im Weyertal 111",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9344866871833801,
+                    0.05859362706542015,
+                    0.00691963778808713
+                ]
+            }
+        },
+        {
+            "title": "Mittagessensverpflegung Schulen und Kinderg\u00e4rten Tuttlingen",
+            "result": {
+                "sequence": "Mittagessensverpflegung Schulen und Kinderg\u00e4rten Tuttlingen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8584146499633789,
+                    0.12364357709884644,
+                    0.01794174127280712
+                ]
+            }
+        },
+        {
+            "title": "Durchf\u00fchrung der Mittagsverpflegung",
+            "result": {
+                "sequence": "Durchf\u00fchrung der Mittagsverpflegung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7859827876091003,
+                    0.14801347255706787,
+                    0.06600374728441238
+                ]
+            }
+        },
+        {
+            "title": "Gastronomische Versorgung von G\u00e4sten im BVS Bildungszentrum Lauingen",
+            "result": {
+                "sequence": "Gastronomische Versorgung von G\u00e4sten im BVS Bildungszentrum Lauingen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5500985980033875,
+                    0.3213457763195038,
+                    0.12855564057826996
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung f\u00fcr Grund- und Mittelschule der Stadt Kolbermoor",
+            "result": {
+                "sequence": "Mittagsverpflegung f\u00fcr Grund- und Mittelschule der Stadt Kolbermoor",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9574779272079468,
+                    0.0363306924700737,
+                    0.0061913891695439816
+                ]
+            }
+        },
+        {
+            "title": "Mensabetreiber f\u00fcr die Schulen und Kindertagesst\u00e4tten - Samtgemeinde Thedinghausen",
+            "result": {
+                "sequence": "Mensabetreiber f\u00fcr die Schulen und Kindertagesst\u00e4tten - Samtgemeinde Thedinghausen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7088453769683838,
+                    0.254917174577713,
+                    0.03623742610216141
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsdienstleistungen f\u00fcr sechs Kinderbetreuungseinrichtungen und einer Grundschule",
+            "result": {
+                "sequence": "Verpflegungsdienstleistungen f\u00fcr sechs Kinderbetreuungseinrichtungen und einer Grundschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9517196416854858,
+                    0.038654692471027374,
+                    0.009625649079680443
+                ]
+            }
+        },
+        {
+            "title": "Catering \"Hochschule trifft Wirtschaft\"",
+            "result": {
+                "sequence": "Catering \"Hochschule trifft Wirtschaft\"",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9570907950401306,
+                    0.03653929382562637,
+                    0.006369869224727154
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsdienstleistungen f\u00fcr die Gemeinde Neuried.",
+            "result": {
+                "sequence": "Verpflegungsdienstleistungen f\u00fcr die Gemeinde Neuried.",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9128075242042542,
+                    0.04780430346727371,
+                    0.039388224482536316
+                ]
+            }
+        },
+        {
+            "title": "LAGA_Gastronomie_2025",
+            "result": {
+                "sequence": "LAGA_Gastronomie_2025",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5866612792015076,
+                    0.29414230585098267,
+                    0.11919637024402618
+                ]
+            }
+        },
+        {
+            "title": "Lieferleistung Schulspeisung Dr. Hugo Rosenthal Oberschule",
+            "result": {
+                "sequence": "Lieferleistung Schulspeisung Dr. Hugo Rosenthal Oberschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.726678192615509,
+                    0.23922733962535858,
+                    0.034094471484422684
+                ]
+            }
+        },
+        {
+            "title": "Verpflegung Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Verpflegung Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8206392526626587,
+                    0.11801980435848236,
+                    0.06134098395705223
+                ]
+            }
         }
     ]
 }
