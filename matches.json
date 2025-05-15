@@ -4479,6 +4479,70 @@
                     0.06134098395705223
                 ]
             }
+        },
+        {
+            "title": "EZ-KiTa-Verpflegung",
+            "result": {
+                "sequence": "EZ-KiTa-Verpflegung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9272680878639221,
+                    0.03673781082034111,
+                    0.03599410131573677
+                ]
+            }
+        },
+        {
+            "title": "Catering und Lunchpakete f\u00fcr die EAE Garmischer Stra\u00dfe 2-12, 80339 M\u00fcnchen",
+            "result": {
+                "sequence": "Catering und Lunchpakete f\u00fcr die EAE Garmischer Stra\u00dfe 2-12, 80339 M\u00fcnchen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.965586245059967,
+                    0.029390420764684677,
+                    0.005023318808525801
+                ]
+            }
+        },
+        {
+            "title": "Cateringdienstleistungen f\u00fcr Fl\u00fcchtlingsunterk\u00fcnfte 55523000-2",
+            "result": {
+                "sequence": "Cateringdienstleistungen f\u00fcr Fl\u00fcchtlingsunterk\u00fcnfte 55523000-2",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9015803933143616,
+                    0.08211389929056168,
+                    0.016305677592754364
+                ]
+            }
+        },
+        {
+            "title": "12EU/25 Mittagsverpflegung an verschiedenen Schulen in 5 Losen",
+            "result": {
+                "sequence": "12EU/25 Mittagsverpflegung an verschiedenen Schulen in 5 Losen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8963470458984375,
+                    0.08637575805187225,
+                    0.01727723516523838
+                ]
+            }
         }
     ]
 }
