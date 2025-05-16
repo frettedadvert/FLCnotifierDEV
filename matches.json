@@ -4543,6 +4543,54 @@
                     0.01727723516523838
                 ]
             }
+        },
+        {
+            "title": "Essensversorgung Kindertagesst\u00e4tten Stadt Nordhausen - Konzessionsvergabe - 2 Lose",
+            "result": {
+                "sequence": "Essensversorgung Kindertagesst\u00e4tten Stadt Nordhausen - Konzessionsvergabe - 2 Lose",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5316442847251892,
+                    0.2459288388490677,
+                    0.22242683172225952
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung Cateringdienstleistungen",
+            "result": {
+                "sequence": "Rahmenvereinbarung Cateringdienstleistungen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9142473936080933,
+                    0.07338158786296844,
+                    0.012371023185551167
+                ]
+            }
+        },
+        {
+            "title": "2025 - Verpflegungs- und Dienstleistungen zur Versorgung der Schulen und Kindertageseinrichtungen im Stadtgebiet Kaufbeuren",
+            "result": {
+                "sequence": "2025 - Verpflegungs- und Dienstleistungen zur Versorgung der Schulen und Kindertageseinrichtungen im Stadtgebiet Kaufbeuren",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.948148250579834,
+                    0.03460892289876938,
+                    0.01724281534552574
+                ]
+            }
         }
     ]
 }
