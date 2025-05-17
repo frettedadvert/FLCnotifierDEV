@@ -4591,6 +4591,70 @@
                     0.01724281534552574
                 ]
             }
+        },
+        {
+            "title": "Rahmenvereinbarung Verpflegung von Gefl\u00fcchteten in der Landesunterkunft Bad Segeberg",
+            "result": {
+                "sequence": "Rahmenvereinbarung Verpflegung von Gefl\u00fcchteten in der Landesunterkunft Bad Segeberg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9209809899330139,
+                    0.07061002403497696,
+                    0.008408981375396252
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an den staatlichen Ganztagsschulen in Mainz",
+            "result": {
+                "sequence": "Mittagsverpflegung an den staatlichen Ganztagsschulen in Mainz",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9395739436149597,
+                    0.03870837762951851,
+                    0.02171766757965088
+                ]
+            }
+        },
+        {
+            "title": "Cateringleistungen f\u00fcr Kindertagesst\u00e4tten (Mittagsverpflegung)",
+            "result": {
+                "sequence": "Cateringleistungen f\u00fcr Kindertagesst\u00e4tten (Mittagsverpflegung)",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7875421047210693,
+                    0.20323355495929718,
+                    0.009224303998053074
+                ]
+            }
+        },
+        {
+            "title": "056/25 Schulverpflegung WHG & KRS Sinsheim",
+            "result": {
+                "sequence": "056/25 Schulverpflegung WHG & KRS Sinsheim",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9254271984100342,
+                    0.05030233412981033,
+                    0.02427046373486519
+                ]
+            }
         }
     ]
 }
