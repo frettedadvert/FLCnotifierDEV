@@ -4655,6 +4655,22 @@
                     0.02427046373486519
                 ]
             }
+        },
+        {
+            "title": "Mit\u00adtags\u00adver\u00adpfle\u00adgung Kin\u00adder\u00adgar\u00adten Ro\u00adden\u00adbach",
+            "result": {
+                "sequence": "Mit\u00adtags\u00adver\u00adpfle\u00adgung Kin\u00adder\u00adgar\u00adten Ro\u00adden\u00adbach",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9513837695121765,
+                    0.029698524624109268,
+                    0.018917711451649666
+                ]
+            }
         }
     ]
 }
