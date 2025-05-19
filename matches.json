@@ -4671,6 +4671,38 @@
                     0.018917711451649666
                 ]
             }
+        },
+        {
+            "title": "Lieferung von Warmverpflegung f\u00fcr die Grundschule Kirtorf",
+            "result": {
+                "sequence": "Lieferung von Warmverpflegung f\u00fcr die Grundschule Kirtorf",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8218780755996704,
+                    0.1279119998216629,
+                    0.050209902226924896
+                ]
+            }
+        },
+        {
+            "title": "Kantinenverpflegung im Bildungszentrum Gartenbau u Landwirtschaft in M\u00fcnster-Wolbeck",
+            "result": {
+                "sequence": "Kantinenverpflegung im Bildungszentrum Gartenbau u Landwirtschaft in M\u00fcnster-Wolbeck",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9640565514564514,
+                    0.02862512320280075,
+                    0.007318373769521713
+                ]
+            }
         }
     ]
 }
