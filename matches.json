@@ -4703,6 +4703,86 @@
                     0.007318373769521713
                 ]
             }
+        },
+        {
+            "title": "Schulessen am Reuterst\u00e4dter Schulcampus in 17153 Stavenhagen",
+            "result": {
+                "sequence": "Schulessen am Reuterst\u00e4dter Schulcampus in 17153 Stavenhagen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6532657742500305,
+                    0.30041494965553284,
+                    0.04631932079792023
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung f\u00fcr Catering im Young Refugee Center der Landeshauptstadt M\u00fcnchen",
+            "result": {
+                "sequence": "Rahmenvereinbarung f\u00fcr Catering im Young Refugee Center der Landeshauptstadt M\u00fcnchen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9447637796401978,
+                    0.04473920539021492,
+                    0.010497109033167362
+                ]
+            }
+        },
+        {
+            "title": "Bewirtschaftung des Casinobetriebs",
+            "result": {
+                "sequence": "Bewirtschaftung des Casinobetriebs",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7228232622146606,
+                    0.2311352640390396,
+                    0.04604143276810646
+                ]
+            }
+        },
+        {
+            "title": "Verpachtung der Kantine und Foyerr\u00e4ume des Pfalztheaters Kaiserslautern",
+            "result": {
+                "sequence": "Verpachtung der Kantine und Foyerr\u00e4ume des Pfalztheaters Kaiserslautern",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6325551867485046,
+                    0.35386091470718384,
+                    0.013583904132246971
+                ]
+            }
+        },
+        {
+            "title": "Dienstleistungskonzessionsvergabe zur Bewirtschaftung der Mensa an der Schule am Rothenberg (Los 1) und der Realschule plus und Fachoberschule Hachenburger L\u00f6we (Los 2) in 57627 Hachenburg",
+            "result": {
+                "sequence": "Dienstleistungskonzessionsvergabe zur Bewirtschaftung der Mensa an der Schule am Rothenberg (Los 1) und der Realschule plus und Fachoberschule Hachenburger L\u00f6we (Los 2) in 57627 Hachenburg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8256539106369019,
+                    0.10588493943214417,
+                    0.06846114993095398
+                ]
+            }
         }
     ]
 }
