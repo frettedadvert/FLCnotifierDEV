@@ -4783,6 +4783,38 @@
                     0.06846114993095398
                 ]
             }
+        },
+        {
+            "title": "\"Bewirtschaftung der Kantine im Nieders\u00e4chsischen Ministerium f\u00fcr Ern\u00e4hrung, Landwirtschaft und Verbraucherschutz (ML)\"",
+            "result": {
+                "sequence": "\"Bewirtschaftung der Kantine im Nieders\u00e4chsischen Ministerium f\u00fcr Ern\u00e4hrung, Landwirtschaft und Verbraucherschutz (ML)\"",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.4936109781265259,
+                    0.4580881595611572,
+                    0.048300851136446
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung \u00fcber Service- und Cateringleistungen in der Landesvertretung",
+            "result": {
+                "sequence": "Rahmenvereinbarung \u00fcber Service- und Cateringleistungen in der Landesvertretung",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8373856544494629,
+                    0.1215643510222435,
+                    0.04104993864893913
+                ]
+            }
         }
     ]
 }
