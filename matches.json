@@ -4815,6 +4815,22 @@
                     0.04104993864893913
                 ]
             }
+        },
+        {
+            "title": "Konferenzbewirtschaftung mit Mitarbeiterservice in N\u00fcrnberg",
+            "result": {
+                "sequence": "Konferenzbewirtschaftung mit Mitarbeiterservice in N\u00fcrnberg",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5528095960617065,
+                    0.41274821758270264,
+                    0.03444213792681694
+                ]
+            }
         }
     ]
 }
