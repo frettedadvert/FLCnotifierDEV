@@ -4831,6 +4831,54 @@
                     0.03444213792681694
                 ]
             }
+        },
+        {
+            "title": "Eugen-Bachmann-Schule und \u00dcberwald-Gymnasium, Wald-Michelbach - Catering Mittagsversorgung K 2",
+            "result": {
+                "sequence": "Eugen-Bachmann-Schule und \u00dcberwald-Gymnasium, Wald-Michelbach - Catering Mittagsversorgung K 2",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9174340963363647,
+                    0.06650512665510178,
+                    0.016060736030340195
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an sechs weiterf\u00fchrenden Schulen in Castrop-Rauxel",
+            "result": {
+                "sequence": "Mittagsverpflegung an sechs weiterf\u00fchrenden Schulen in Castrop-Rauxel",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8858992457389832,
+                    0.09632625430822372,
+                    0.01777450181543827
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen f\u00fcr Kitas, Hort und Schule in der Gemeinde Gro\u00dfbeeren",
+            "result": {
+                "sequence": "Verpflegungsleistungen f\u00fcr Kitas, Hort und Schule in der Gemeinde Gro\u00dfbeeren",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9177297353744507,
+                    0.06866630166769028,
+                    0.01360395923256874
+                ]
+            }
         }
     ]
 }
