@@ -4879,6 +4879,86 @@
                     0.01360395923256874
                 ]
             }
+        },
+        {
+            "title": "63 Schulen des Landkreises Darmstadt-Dieburg - Schulverpflegung",
+            "result": {
+                "sequence": "63 Schulen des Landkreises Darmstadt-Dieburg - Schulverpflegung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9368170499801636,
+                    0.05220988765358925,
+                    0.010973024182021618
+                ]
+            }
+        },
+        {
+            "title": "Dienstleistungsvertrag \u00fcber den eigenverantwortlichen Betrieb der Schulmensa in der Wilhelm-Hartschen-Schule",
+            "result": {
+                "sequence": "Dienstleistungsvertrag \u00fcber den eigenverantwortlichen Betrieb der Schulmensa in der Wilhelm-Hartschen-Schule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8486228585243225,
+                    0.09543248265981674,
+                    0.05594459921121597
+                ]
+            }
+        },
+        {
+            "title": "Ausschreibung TdDE Verpflegung Einsatzkr\u00e4fte",
+            "result": {
+                "sequence": "Ausschreibung TdDE Verpflegung Einsatzkr\u00e4fte",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.933383047580719,
+                    0.05272312089800835,
+                    0.013893837109208107
+                ]
+            }
+        },
+        {
+            "title": "Gastronomische Bewirtschaftung der Funkhausstandorte in K\u00f6ln und Berlin von Deutschlandradio",
+            "result": {
+                "sequence": "Gastronomische Bewirtschaftung der Funkhausstandorte in K\u00f6ln und Berlin von Deutschlandradio",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7113179564476013,
+                    0.167826309800148,
+                    0.12085570394992828
+                ]
+            }
+        },
+        {
+            "title": "TNW: Bewirtschaftung von Kantine und Cafeteria der BaFin in Bonn-Castell",
+            "result": {
+                "sequence": "TNW: Bewirtschaftung von Kantine und Cafeteria der BaFin in Bonn-Castell",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8547727465629578,
+                    0.1286948174238205,
+                    0.016532452777028084
+                ]
+            }
         }
     ]
 }
