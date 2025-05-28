@@ -4959,6 +4959,70 @@
                     0.016532452777028084
                 ]
             }
+        },
+        {
+            "title": "Universit\u00e4t zu K\u00f6ln - Catering ECSR Konferenz",
+            "result": {
+                "sequence": "Universit\u00e4t zu K\u00f6ln - Catering ECSR Konferenz",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9595298171043396,
+                    0.02936568669974804,
+                    0.011104506440460682
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegungsleistung f\u00fcr das OSZ II in Cottbus als Dienstleistungskonzession",
+            "result": {
+                "sequence": "Schulverpflegungsleistung f\u00fcr das OSZ II in Cottbus als Dienstleistungskonzession",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9733682870864868,
+                    0.021369755268096924,
+                    0.005261952523142099
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegungsleistung f\u00fcr das P\u00fcckler Gymnasium in Cottbus als Dienstleistungskonzession",
+            "result": {
+                "sequence": "Schulverpflegungsleistung f\u00fcr das P\u00fcckler Gymnasium in Cottbus als Dienstleistungskonzession",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9769104719161987,
+                    0.018689708784222603,
+                    0.004399839788675308
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen in Kindertagesst\u00e4tten, Schulen und Horteinrichtungen",
+            "result": {
+                "sequence": "Verpflegungsleistungen in Kindertagesst\u00e4tten, Schulen und Horteinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8925175070762634,
+                    0.0888013020157814,
+                    0.018681181594729424
+                ]
+            }
         }
     ]
 }
