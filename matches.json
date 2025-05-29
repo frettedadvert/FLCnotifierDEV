@@ -5023,6 +5023,86 @@
                     0.018681181594729424
                 ]
             }
+        },
+        {
+            "title": "Mit\u00adtags\u00adver\u00adpfle\u00adgung in der Grund\u00adschu\u00adle Al\u00adbert-Schweit\u00adzer-Schu\u00adle",
+            "result": {
+                "sequence": "Mit\u00adtags\u00adver\u00adpfle\u00adgung in der Grund\u00adschu\u00adle Al\u00adbert-Schweit\u00adzer-Schu\u00adle",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9671850204467773,
+                    0.018473953008651733,
+                    0.014341072179377079
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung Verpflegungsdienst Hessische Abschiebungshafteinrichtung",
+            "result": {
+                "sequence": "Rahmenvereinbarung Verpflegungsdienst Hessische Abschiebungshafteinrichtung",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9086669683456421,
+                    0.04984727129340172,
+                    0.04148571938276291
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung Schillerschule",
+            "result": {
+                "sequence": "Mittagsverpflegung Schillerschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9251571297645569,
+                    0.061954256147146225,
+                    0.012888557277619839
+                ]
+            }
+        },
+        {
+            "title": "Konzessionsvergabe Schulspeisung OS Fiwa.",
+            "result": {
+                "sequence": "Konzessionsvergabe Schulspeisung OS Fiwa.",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8650302886962891,
+                    0.07777034491300583,
+                    0.05719935894012451
+                ]
+            }
+        },
+        {
+            "title": "Konzessionsvergabe Schulspeisung PMG",
+            "result": {
+                "sequence": "Konzessionsvergabe Schulspeisung PMG",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8374572396278381,
+                    0.08649935573339462,
+                    0.07604344189167023
+                ]
+            }
         }
     ]
 }
