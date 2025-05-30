@@ -5103,6 +5103,22 @@
                     0.07604344189167023
                 ]
             }
+        },
+        {
+            "title": "Stadt Maintal - Vergabeverfahren f\u00fcr die losweise Beschaffung von Leistungen der Mittagsverpflegung f\u00fcr Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Stadt Maintal - Vergabeverfahren f\u00fcr die losweise Beschaffung von Leistungen der Mittagsverpflegung f\u00fcr Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7223467826843262,
+                    0.2551586627960205,
+                    0.022494597360491753
+                ]
+            }
         }
     ]
 }
