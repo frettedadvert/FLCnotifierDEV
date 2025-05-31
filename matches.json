@@ -5119,6 +5119,38 @@
                     0.022494597360491753
                 ]
             }
+        },
+        {
+            "title": "Ausschreibung Speiseversorgung f\u00fcr die Bezirksklinik Rehau",
+            "result": {
+                "sequence": "Ausschreibung Speiseversorgung f\u00fcr die Bezirksklinik Rehau",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9021390676498413,
+                    0.06364719569683075,
+                    0.03421374782919884
+                ]
+            }
+        },
+        {
+            "title": "Ex-Post-Bekanntmachung: Herstellung und Lieferung der Mittagsverpflegung f\u00fcr die Kindertagesst\u00e4tte Marler Stra\u00dfe",
+            "result": {
+                "sequence": "Ex-Post-Bekanntmachung: Herstellung und Lieferung der Mittagsverpflegung f\u00fcr die Kindertagesst\u00e4tte Marler Stra\u00dfe",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9030656218528748,
+                    0.07406850159168243,
+                    0.02286582440137863
+                ]
+            }
         }
     ]
 }
