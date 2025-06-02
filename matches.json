@@ -5151,6 +5151,22 @@
                     0.02286582440137863
                 ]
             }
+        },
+        {
+            "title": "Verpflegungsleistungen f\u00fcr Kindertagesst\u00e4tten, Schulen und Horte - 16761 Hennigsdorf",
+            "result": {
+                "sequence": "Verpflegungsleistungen f\u00fcr Kindertagesst\u00e4tten, Schulen und Horte - 16761 Hennigsdorf",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.96280837059021,
+                    0.030981145799160004,
+                    0.006210490129888058
+                ]
+            }
         }
     ]
 }
