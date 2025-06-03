@@ -5167,6 +5167,38 @@
                     0.006210490129888058
                 ]
             }
+        },
+        {
+            "title": "RV - Verpflegungssystem Cook & Chill in zwei Losen",
+            "result": {
+                "sequence": "RV - Verpflegungssystem Cook & Chill in zwei Losen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8010427355766296,
+                    0.10463888943195343,
+                    0.09431838244199753
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung der Mittagsverpflegung f\u00fcr Kindergarten- u. Schulkinder vom 01.08.2025 bis 31.07.2026 als Warmverpflegung (Cook & Hold)",
+            "result": {
+                "sequence": "Herstellung und Lieferung der Mittagsverpflegung f\u00fcr Kindergarten- u. Schulkinder vom 01.08.2025 bis 31.07.2026 als Warmverpflegung (Cook & Hold)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6809038519859314,
+                    0.262320339679718,
+                    0.05677579343318939
+                ]
+            }
         }
     ]
 }
