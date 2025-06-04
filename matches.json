@@ -5199,6 +5199,102 @@
                     0.05677579343318939
                 ]
             }
+        },
+        {
+            "title": "Ausgabe der Mittagsverpflegung einschlie\u00dflich vor- und nachbereitender T\u00e4tigkeiten an Schulen der Stadt Hildesheim",
+            "result": {
+                "sequence": "Ausgabe der Mittagsverpflegung einschlie\u00dflich vor- und nachbereitender T\u00e4tigkeiten an Schulen der Stadt Hildesheim",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9079179167747498,
+                    0.06914227455854416,
+                    0.022939810529351234
+                ]
+            }
+        },
+        {
+            "title": "Betrieb und die Betreuung der Gemeinschaftsunterkunft Ernst-Abbe-Ring 23, 31535 Neustadt am R\u00fcbenberge f\u00fcr Asylbewerberinnen, Asylbewerber und Fl\u00fcchtlinge",
+            "result": {
+                "sequence": "Betrieb und die Betreuung der Gemeinschaftsunterkunft Ernst-Abbe-Ring 23, 31535 Neustadt am R\u00fcbenberge f\u00fcr Asylbewerberinnen, Asylbewerber und Fl\u00fcchtlinge",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.4840032458305359,
+                    0.3222975730895996,
+                    0.1936992108821869
+                ]
+            }
+        },
+        {
+            "title": "Vertrag \u00fcber Dienstleistungen zur gastronomischen Versorgung und Konferenzbewirtschaftung",
+            "result": {
+                "sequence": "Vertrag \u00fcber Dienstleistungen zur gastronomischen Versorgung und Konferenzbewirtschaftung",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7532142996788025,
+                    0.21283847093582153,
+                    0.033947233110666275
+                ]
+            }
+        },
+        {
+            "title": "Lieferung von Mittagsverpflegung f\u00fcr Kindertageseinrichtungen und OGS im Cook & Hold Verfahren",
+            "result": {
+                "sequence": "Lieferung von Mittagsverpflegung f\u00fcr Kindertageseinrichtungen und OGS im Cook & Hold Verfahren",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6075599193572998,
+                    0.21220099925994873,
+                    0.18023909628391266
+                ]
+            }
+        },
+        {
+            "title": "Bekanntmachung vergebener Auftrag: Lieferung der Mittagsverpflegung f\u00fcr 10 Kitas der Stadt Dorsten",
+            "result": {
+                "sequence": "Bekanntmachung vergebener Auftrag: Lieferung der Mittagsverpflegung f\u00fcr 10 Kitas der Stadt Dorsten",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6653062701225281,
+                    0.179507315158844,
+                    0.15518642961978912
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Verpflegungsleistungen f\u00fcr Schulen - 14974 Ludwigsfelde",
+            "result": {
+                "sequence": "Vergabe von Verpflegungsleistungen f\u00fcr Schulen - 14974 Ludwigsfelde",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9713977575302124,
+                    0.02269683964550495,
+                    0.0059053972363471985
+                ]
+            }
         }
     ]
 }
