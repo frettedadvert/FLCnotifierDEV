@@ -5295,6 +5295,70 @@
                     0.0059053972363471985
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung Kinderhaus Hedwigstra\u00dfe",
+            "result": {
+                "sequence": "Mittagsverpflegung Kinderhaus Hedwigstra\u00dfe",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9515933394432068,
+                    0.02560398168861866,
+                    0.02280268259346485
+                ]
+            }
+        },
+        {
+            "title": "Schulverpflegung an weiterf\u00fchrenden Schulen der Stadt Sankt Augustin",
+            "result": {
+                "sequence": "Schulverpflegung an weiterf\u00fchrenden Schulen der Stadt Sankt Augustin",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9874181747436523,
+                    0.009863702580332756,
+                    0.002718110103160143
+                ]
+            }
+        },
+        {
+            "title": "Alexander-von-Humboldt-Schule, Viernheim - Mittagessensversorgung und Bewirtschaftung Kiosk",
+            "result": {
+                "sequence": "Alexander-von-Humboldt-Schule, Viernheim - Mittagessensversorgung und Bewirtschaftung Kiosk",
+                "labels": [
+                    "lebensmittel",
+                    "verpflegung",
+                    "catering"
+                ],
+                "scores": [
+                    0.45197534561157227,
+                    0.3240925371646881,
+                    0.22393208742141724
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvereinbarung \u00fcber Verpflegungsdienstleistungen f\u00fcr die Abschiebungshafteinrichtung Gl\u00fcckstadt",
+            "result": {
+                "sequence": "Rahmenvereinbarung \u00fcber Verpflegungsdienstleistungen f\u00fcr die Abschiebungshafteinrichtung Gl\u00fcckstadt",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9047825932502747,
+                    0.065446637570858,
+                    0.029770778492093086
+                ]
+            }
         }
     ]
 }
