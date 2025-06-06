@@ -5359,6 +5359,150 @@
                     0.029770778492093086
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung f\u00fcr die Grundschule mit Kindertagesst\u00e4tte in Seelze-Harenberg",
+            "result": {
+                "sequence": "Mittagsverpflegung f\u00fcr die Grundschule mit Kindertagesst\u00e4tte in Seelze-Harenberg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9765214920043945,
+                    0.019845228642225266,
+                    0.003633315907791257
+                ]
+            }
+        },
+        {
+            "title": "Konzession f\u00fcr die Bewirtschaftung der Cafeteria",
+            "result": {
+                "sequence": "Konzession f\u00fcr die Bewirtschaftung der Cafeteria",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8097981214523315,
+                    0.17251014709472656,
+                    0.017691737040877342
+                ]
+            }
+        },
+        {
+            "title": "Stadt Ost\u00adsee\u00adbad Re\u00adrik: Ge\u00adtr\u00e4n\u00adke\u00adaus\u00adschank Ver\u00adan\u00adstal\u00adtun\u00adgen 2025",
+            "result": {
+                "sequence": "Stadt Ost\u00adsee\u00adbad Re\u00adrik: Ge\u00adtr\u00e4n\u00adke\u00adaus\u00adschank Ver\u00adan\u00adstal\u00adtun\u00adgen 2025",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8825164437294006,
+                    0.08699662983417511,
+                    0.030486881732940674
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung f\u00fcr die Schulen der Stadt Landsberg am Lech",
+            "result": {
+                "sequence": "Mittagsverpflegung f\u00fcr die Schulen der Stadt Landsberg am Lech",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.92861008644104,
+                    0.0625336691737175,
+                    0.008856208063662052
+                ]
+            }
+        },
+        {
+            "title": "Sch\u00fclerverpflegung OS Am Hartmannplatz - Konzessionsvergabe",
+            "result": {
+                "sequence": "Sch\u00fclerverpflegung OS Am Hartmannplatz - Konzessionsvergabe",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9293878674507141,
+                    0.05584082007408142,
+                    0.01477135717868805
+                ]
+            }
+        },
+        {
+            "title": "Catering Fl\u00fcchtlingsunterkunft Westring 32",
+            "result": {
+                "sequence": "Catering Fl\u00fcchtlingsunterkunft Westring 32",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9676235914230347,
+                    0.024960322305560112,
+                    0.007416039705276489
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an TEK`s, Grundschulen und weiterf\u00fchrenden Schulen",
+            "result": {
+                "sequence": "Mittagsverpflegung an TEK`s, Grundschulen und weiterf\u00fchrenden Schulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8259503245353699,
+                    0.13110528886318207,
+                    0.04294442757964134
+                ]
+            }
+        },
+        {
+            "title": "Ganztagsversorgung (Fr\u00fchst\u00fcck, Mittagessen und Vesper) in den st\u00e4dtischen Kindertagesst\u00e4tten der Fontanestadt Neuruppin",
+            "result": {
+                "sequence": "Ganztagsversorgung (Fr\u00fchst\u00fcck, Mittagessen und Vesper) in den st\u00e4dtischen Kindertagesst\u00e4tten der Fontanestadt Neuruppin",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6408410668373108,
+                    0.22561101615428925,
+                    0.13354788720607758
+                ]
+            }
+        },
+        {
+            "title": "Gastronomische Beratung f\u00fcr die Betriebsgastronomie [aa]",
+            "result": {
+                "sequence": "Gastronomische Beratung f\u00fcr die Betriebsgastronomie [aa]",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6249693036079407,
+                    0.30815044045448303,
+                    0.06688027828931808
+                ]
+            }
         }
     ]
 }
