@@ -5503,6 +5503,118 @@
                     0.06688027828931808
                 ]
             }
+        },
+        {
+            "title": "Dienstleistungskonzession f\u00fcr den erweiterten Pausenverkauf in der Beruflichen Oberschule Regensburg",
+            "result": {
+                "sequence": "Dienstleistungskonzession f\u00fcr den erweiterten Pausenverkauf in der Beruflichen Oberschule Regensburg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7465386390686035,
+                    0.20618748664855957,
+                    0.0472739078104496
+                ]
+            }
+        },
+        {
+            "title": "Dienstleistungskonzession f\u00fcr den Betrieb des erweiterten Pausenverkaufs der st\u00e4dtischen Berufsschule I und II",
+            "result": {
+                "sequence": "Dienstleistungskonzession f\u00fcr den Betrieb des erweiterten Pausenverkaufs der st\u00e4dtischen Berufsschule I und II",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7838696837425232,
+                    0.16003766655921936,
+                    0.05609268695116043
+                ]
+            }
+        },
+        {
+            "title": "Kon\u00adzes\u00adsi\u00adons\u00adver\u00adga\u00adbe Ca\u00adfe\u00adte\u00adria",
+            "result": {
+                "sequence": "Kon\u00adzes\u00adsi\u00adons\u00adver\u00adga\u00adbe Ca\u00adfe\u00adte\u00adria",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5643281936645508,
+                    0.3581086993217468,
+                    0.07756313681602478
+                ]
+            }
+        },
+        {
+            "title": "Rahmenvertrag Catering",
+            "result": {
+                "sequence": "Rahmenvertrag Catering",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8791167140007019,
+                    0.11586971580982208,
+                    0.005013565067201853
+                ]
+            }
+        },
+        {
+            "title": "Serviceleistungen Mensabetrieb an 3 Ganztagsschulen - 3 Lose",
+            "result": {
+                "sequence": "Serviceleistungen Mensabetrieb an 3 Ganztagsschulen - 3 Lose",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.46779975295066833,
+                    0.3680609464645386,
+                    0.16413931548595428
+                ]
+            }
+        },
+        {
+            "title": "Neustadt an der Weinstra\u00dfe Schulcatering Cook&Hold - 5 Lose (Rahmenvereinbarung)",
+            "result": {
+                "sequence": "Neustadt an der Weinstra\u00dfe Schulcatering Cook&Hold - 5 Lose (Rahmenvereinbarung)",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9547980427742004,
+                    0.037820570170879364,
+                    0.00738133117556572
+                ]
+            }
+        },
+        {
+            "title": "Sch\u00fclerverpflegung GS Am Stadtpark und FZ Johannes Tr\u00fcper - Konzessionsvergabe",
+            "result": {
+                "sequence": "Sch\u00fclerverpflegung GS Am Stadtpark und FZ Johannes Tr\u00fcper - Konzessionsvergabe",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9805160164833069,
+                    0.014377468265593052,
+                    0.005106544587761164
+                ]
+            }
         }
     ]
 }
