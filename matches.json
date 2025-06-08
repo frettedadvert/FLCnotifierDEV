@@ -5615,6 +5615,70 @@
                     0.005106544587761164
                 ]
             }
+        },
+        {
+            "title": "Rahmenvertrag Bereitstellung von Festwasserspendern und Lieferung passender CO2-Flaschen",
+            "result": {
+                "sequence": "Rahmenvertrag Bereitstellung von Festwasserspendern und Lieferung passender CO2-Flaschen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7940962910652161,
+                    0.16072922945022583,
+                    0.04517447203397751
+                ]
+            }
+        },
+        {
+            "title": "Anmietung von Veranstaltungsr\u00e4umen, \u00dcbernachtungsm\u00f6glichkeiten, Catering f\u00fcr die Bundesanstalt Technisches Hilfswerk (THW)",
+            "result": {
+                "sequence": "Anmietung von Veranstaltungsr\u00e4umen, \u00dcbernachtungsm\u00f6glichkeiten, Catering f\u00fcr die Bundesanstalt Technisches Hilfswerk (THW)",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.945371687412262,
+                    0.04672253876924515,
+                    0.007905797101557255
+                ]
+            }
+        },
+        {
+            "title": "Schulmittagessen Klassenstufe 1-6, an zwei verschiedenen Schulstandorten",
+            "result": {
+                "sequence": "Schulmittagessen Klassenstufe 1-6, an zwei verschiedenen Schulstandorten",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6722331047058105,
+                    0.2685009241104126,
+                    0.05926600098609924
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung der St\u00e4dtischen Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Mittagsverpflegung der St\u00e4dtischen Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9461263418197632,
+                    0.03965695947408676,
+                    0.014216720126569271
+                ]
+            }
         }
     ]
 }
