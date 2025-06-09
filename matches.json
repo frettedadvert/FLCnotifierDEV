@@ -5679,6 +5679,22 @@
                     0.014216720126569271
                 ]
             }
+        },
+        {
+            "title": "K\u00fcchenbetreibung f\u00fcr Kita Kunterbunt und Nachbarschaftshaus in Kyritz",
+            "result": {
+                "sequence": "K\u00fcchenbetreibung f\u00fcr Kita Kunterbunt und Nachbarschaftshaus in Kyritz",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6603683829307556,
+                    0.2669655680656433,
+                    0.0726659893989563
+                ]
+            }
         }
     ]
 }
