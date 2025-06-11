@@ -5695,6 +5695,22 @@
                     0.0726659893989563
                 ]
             }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Kitaessen und Mensabetrieb",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Kitaessen und Mensabetrieb",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5613616704940796,
+                    0.27178019285202026,
+                    0.16685809195041656
+                ]
+            }
         }
     ]
 }
