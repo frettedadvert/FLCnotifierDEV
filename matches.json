@@ -5711,6 +5711,70 @@
                     0.16685809195041656
                 ]
             }
+        },
+        {
+            "title": "Grundschulen VG Edenkoben - Mittagsverpflegung",
+            "result": {
+                "sequence": "Grundschulen VG Edenkoben - Mittagsverpflegung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9404090046882629,
+                    0.05146358907222748,
+                    0.008127368986606598
+                ]
+            }
+        },
+        {
+            "title": "Dienstleistungskonzession zur Sch\u00fclerverpflegung an 4 Schulen der Stadt Suhl Lose 7 - 10",
+            "result": {
+                "sequence": "Dienstleistungskonzession zur Sch\u00fclerverpflegung an 4 Schulen der Stadt Suhl Lose 7 - 10",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9333928227424622,
+                    0.03859708458185196,
+                    0.028010105714201927
+                ]
+            }
+        },
+        {
+            "title": "Dienstleistungskonzession Mittagsverpflegung f\u00fcr die Pestalozzi Mittelschule",
+            "result": {
+                "sequence": "Dienstleistungskonzession Mittagsverpflegung f\u00fcr die Pestalozzi Mittelschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9721415638923645,
+                    0.022679539397358894,
+                    0.005178865976631641
+                ]
+            }
+        },
+        {
+            "title": "Gastronomische Bewirtschaftung",
+            "result": {
+                "sequence": "Gastronomische Bewirtschaftung",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5179898738861084,
+                    0.3491824269294739,
+                    0.13282763957977295
+                ]
+            }
         }
     ]
 }
