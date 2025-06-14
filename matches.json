@@ -5775,6 +5775,22 @@
                     0.13282763957977295
                 ]
             }
+        },
+        {
+            "title": "Ex Post: Herstellung und Lieferung Mittagsverpflegung st\u00e4dtische Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Ex Post: Herstellung und Lieferung Mittagsverpflegung st\u00e4dtische Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9356316924095154,
+                    0.053112249821424484,
+                    0.011256102472543716
+                ]
+            }
         }
     ]
 }
