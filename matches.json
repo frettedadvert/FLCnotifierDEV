@@ -5791,6 +5791,22 @@
                     0.011256102472543716
                 ]
             }
+        },
+        {
+            "title": "Verpflegungsdienstleistung f\u00fcr die Containersiedlung Krefeld-Forstwald",
+            "result": {
+                "sequence": "Verpflegungsdienstleistung f\u00fcr die Containersiedlung Krefeld-Forstwald",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8915395736694336,
+                    0.09905943274497986,
+                    0.00940098986029625
+                ]
+            }
         }
     ]
 }
