@@ -5807,6 +5807,22 @@
                     0.00940098986029625
                 ]
             }
+        },
+        {
+            "title": "Catering Fl\u00fcchtlingsunterkunft Unterstr. 66a in Bochum",
+            "result": {
+                "sequence": "Catering Fl\u00fcchtlingsunterkunft Unterstr. 66a in Bochum",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9602290391921997,
+                    0.031018942594528198,
+                    0.008752033114433289
+                ]
+            }
         }
     ]
 }
