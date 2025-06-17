@@ -5823,6 +5823,54 @@
                     0.008752033114433289
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung in Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Mittagsverpflegung in Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7992892861366272,
+                    0.1483960747718811,
+                    0.05231461673974991
+                ]
+            }
+        },
+        {
+            "title": "SKDD_Gastronomische Leistungen",
+            "result": {
+                "sequence": "SKDD_Gastronomische Leistungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6660476922988892,
+                    0.2098233997821808,
+                    0.12412888556718826
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung am F\u00f6rderschulzentrum Bad Kreuznach; Lieferung von Essenskomponenten",
+            "result": {
+                "sequence": "Mittagsverpflegung am F\u00f6rderschulzentrum Bad Kreuznach; Lieferung von Essenskomponenten",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9593754410743713,
+                    0.028493959456682205,
+                    0.012130634859204292
+                ]
+            }
         }
     ]
 }
