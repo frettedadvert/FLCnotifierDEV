@@ -5887,6 +5887,102 @@
                     0.0207198616117239
                 ]
             }
+        },
+        {
+            "title": "Anmietung von Tagungsr\u00e4ume und Verpflegung f\u00fcr das BMI",
+            "result": {
+                "sequence": "Anmietung von Tagungsr\u00e4ume und Verpflegung f\u00fcr das BMI",
+                "labels": [
+                    "lebensmittel",
+                    "verpflegung",
+                    "catering"
+                ],
+                "scores": [
+                    0.44196948409080505,
+                    0.4179125428199768,
+                    0.14011797308921814
+                ]
+            }
+        },
+        {
+            "title": "Los 7 - Grundschule Schm\u00f6lln, Regelschule Schm\u00f6lln, F\u00f6rderzentrum Schm\u00f6lln und Grundschule Altkirchen; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+            "result": {
+                "sequence": "Los 7 - Grundschule Schm\u00f6lln, Regelschule Schm\u00f6lln, F\u00f6rderzentrum Schm\u00f6lln und Grundschule Altkirchen; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+                "labels": [
+                    "lebensmittel",
+                    "verpflegung",
+                    "catering"
+                ],
+                "scores": [
+                    0.39146965742111206,
+                    0.37232136726379395,
+                    0.2362089902162552
+                ]
+            }
+        },
+        {
+            "title": "Ausschreibung TdDE Verpflegung / Catering f\u00fcr die Einsatzkr\u00e4fte",
+            "result": {
+                "sequence": "Ausschreibung TdDE Verpflegung / Catering f\u00fcr die Einsatzkr\u00e4fte",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8015633821487427,
+                    0.1939232349395752,
+                    0.004513354040682316
+                ]
+            }
+        },
+        {
+            "title": "Mensabetrieb im Schulzentrum Nieheim",
+            "result": {
+                "sequence": "Mensabetrieb im Schulzentrum Nieheim",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6507396697998047,
+                    0.21484440565109253,
+                    0.134415864944458
+                ]
+            }
+        },
+        {
+            "title": "Los 8 - Grundschule G\u00f6\u00dfnitz, Regelschule G\u00f6\u00dfnitz und Grundschule G\u00f6\u00dfnitz, Schulteil Ponitz; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+            "result": {
+                "sequence": "Los 8 - Grundschule G\u00f6\u00dfnitz, Regelschule G\u00f6\u00dfnitz und Grundschule G\u00f6\u00dfnitz, Schulteil Ponitz; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.4713999927043915,
+                    0.2791304886341095,
+                    0.24946945905685425
+                ]
+            }
+        },
+        {
+            "title": "Los 6 - Grundschule Gro\u00dfstechau, Regelschule N\u00f6bdenitz und Grundschule Thonhausen; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+            "result": {
+                "sequence": "Los 6 - Grundschule Gro\u00dfstechau, Regelschule N\u00f6bdenitz und Grundschule Thonhausen; Versorgung von Schulen in Tr\u00e4gerschaft des Landkreises Altenburger Land mit Mittagessen als Dienstleistungskonzession",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.41141775250434875,
+                    0.3981963098049164,
+                    0.19038595259189606
+                ]
+            }
         }
     ]
 }
