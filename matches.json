@@ -5983,6 +5983,86 @@
                     0.19038595259189606
                 ]
             }
+        },
+        {
+            "title": "Herstellung und Lieferung von Mittagsverpflegung, sowie der M\u00f6glichkeit einer Zwischenverpflegung (Kiosk) f\u00fcr die 2 Schulstandorte Sonnenh\u00fcgel und Gymnasium Carolinum",
+            "result": {
+                "sequence": "Herstellung und Lieferung von Mittagsverpflegung, sowie der M\u00f6glichkeit einer Zwischenverpflegung (Kiosk) f\u00fcr die 2 Schulstandorte Sonnenh\u00fcgel und Gymnasium Carolinum",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8061854243278503,
+                    0.12775424122810364,
+                    0.06606031954288483
+                ]
+            }
+        },
+        {
+            "title": "Kinderhaus Stadtpark; Mittagsverpflegung 2026-2029",
+            "result": {
+                "sequence": "Kinderhaus Stadtpark; Mittagsverpflegung 2026-2029",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9716375470161438,
+                    0.024573398754000664,
+                    0.0037890488747507334
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Betriebsf\u00fchrungsdienstleistungen in der Erstaufnahmeeinrichtung des Landes Brandenburg. Los 2b - Verpflegungsleistungen am Standort W\u00fcnsdorf",
+            "result": {
+                "sequence": "Vergabe von Betriebsf\u00fchrungsdienstleistungen in der Erstaufnahmeeinrichtung des Landes Brandenburg. Los 2b - Verpflegungsleistungen am Standort W\u00fcnsdorf",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9680459499359131,
+                    0.016048477962613106,
+                    0.01590556465089321
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Betriebsf\u00fchrungsdienstleistungen in der Erstaufnahmeeinrichtung des Landes Brandenburg. Los 2a - Verpflegungsleistungen an den Standorten Eisenh\u00fcttenstadt und Frankfurt (Oder)",
+            "result": {
+                "sequence": "Vergabe von Betriebsf\u00fchrungsdienstleistungen in der Erstaufnahmeeinrichtung des Landes Brandenburg. Los 2a - Verpflegungsleistungen an den Standorten Eisenh\u00fcttenstadt und Frankfurt (Oder)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9526141285896301,
+                    0.027424728497862816,
+                    0.01996113732457161
+                ]
+            }
+        },
+        {
+            "title": "Mittagsversorgung an st\u00e4dtischen Einrichtungen",
+            "result": {
+                "sequence": "Mittagsversorgung an st\u00e4dtischen Einrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6503416299819946,
+                    0.19805361330509186,
+                    0.1516047716140747
+                ]
+            }
         }
     ]
 }
