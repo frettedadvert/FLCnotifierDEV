@@ -6063,6 +6063,22 @@
                     0.1516047716140747
                 ]
             }
+        },
+        {
+            "title": "Mittagessenversorgung Braunschweiger Schulen",
+            "result": {
+                "sequence": "Mittagessenversorgung Braunschweiger Schulen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6028580665588379,
+                    0.2135988026857376,
+                    0.1835431605577469
+                ]
+            }
         }
     ]
 }
