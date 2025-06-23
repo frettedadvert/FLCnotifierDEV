@@ -6079,6 +6079,22 @@
                     0.1835431605577469
                 ]
             }
+        },
+        {
+            "title": "\u00dcberlassung von Arbeitnehmern nach A\u00dcG - K\u00fcchenmitarbeiter/innen",
+            "result": {
+                "sequence": "\u00dcberlassung von Arbeitnehmern nach A\u00dcG - K\u00fcchenmitarbeiter/innen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7926973700523376,
+                    0.17651313543319702,
+                    0.03078950010240078
+                ]
+            }
         }
     ]
 }
