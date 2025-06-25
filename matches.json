@@ -6095,6 +6095,38 @@
                     0.03078950010240078
                 ]
             }
+        },
+        {
+            "title": "\"Diverse Dienstleistungen f\u00fcr den Betrieb der Notunterkunft (NUK) Bad Bodenteich der Landesaufnahmebeh\u00f6rde Niedersachsen (LAB NI) zur Unterbringung gefl\u00fcchteter Menschen\"",
+            "result": {
+                "sequence": "\"Diverse Dienstleistungen f\u00fcr den Betrieb der Notunterkunft (NUK) Bad Bodenteich der Landesaufnahmebeh\u00f6rde Niedersachsen (LAB NI) zur Unterbringung gefl\u00fcchteter Menschen\"",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.5481606721878052,
+                    0.27434849739074707,
+                    0.17749083042144775
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen f\u00fcr Gefl\u00fcchtete",
+            "result": {
+                "sequence": "Verpflegungsleistungen f\u00fcr Gefl\u00fcchtete",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8461877703666687,
+                    0.08809633553028107,
+                    0.06571590900421143
+                ]
+            }
         }
     ]
 }
