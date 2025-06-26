@@ -6127,6 +6127,70 @@
                     0.06571590900421143
                 ]
             }
+        },
+        {
+            "title": "Landeshauptstadt Schwerin - Verpflegung/Getr\u00e4nke f\u00fcr Bewohner der Gemeinschaftsunterkunft Werkstra\u00dfe 209",
+            "result": {
+                "sequence": "Landeshauptstadt Schwerin - Verpflegung/Getr\u00e4nke f\u00fcr Bewohner der Gemeinschaftsunterkunft Werkstra\u00dfe 209",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9753005504608154,
+                    0.017512517049908638,
+                    0.007186928763985634
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an Schulen (Cook & Hold)",
+            "result": {
+                "sequence": "Mittagsverpflegung an Schulen (Cook & Hold)",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8914134502410889,
+                    0.0769258514046669,
+                    0.03166068717837334
+                ]
+            }
+        },
+        {
+            "title": "Sch\u00fclerverpflegung - Lose GS Frauenstra\u00dfe, GS Rosenstra\u00dfe, MS Hans-Sachs-Stra\u00dfe",
+            "result": {
+                "sequence": "Sch\u00fclerverpflegung - Lose GS Frauenstra\u00dfe, GS Rosenstra\u00dfe, MS Hans-Sachs-Stra\u00dfe",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9411793351173401,
+                    0.051423393189907074,
+                    0.007397317793220282
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen f\u00fcr Kindertageseinrichtungen der Stadt Starnberg",
+            "result": {
+                "sequence": "Verpflegungsleistungen f\u00fcr Kindertageseinrichtungen der Stadt Starnberg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9276505708694458,
+                    0.06122691556811333,
+                    0.011122476309537888
+                ]
+            }
         }
     ]
 }
