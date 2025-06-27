@@ -6191,6 +6191,70 @@
                     0.011122476309537888
                 ]
             }
+        },
+        {
+            "title": "Rahmenvereinbarung \u00fcber nachhaltiges Catering",
+            "result": {
+                "sequence": "Rahmenvereinbarung \u00fcber nachhaltiges Catering",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.837851345539093,
+                    0.14927904307842255,
+                    0.012869637459516525
+                ]
+            }
+        },
+        {
+            "title": "Herstellung, Lieferung und Ausgabe von Schulmittagessen im Bezirk Neuk\u00f6lln - 08G38 Schule am Koppelweg",
+            "result": {
+                "sequence": "Herstellung, Lieferung und Ausgabe von Schulmittagessen im Bezirk Neuk\u00f6lln - 08G38 Schule am Koppelweg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8317680954933167,
+                    0.10250087827444077,
+                    0.06573103368282318
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung GS Plaidt, Kruft, Nickenich und Saffig",
+            "result": {
+                "sequence": "Mittagsverpflegung GS Plaidt, Kruft, Nickenich und Saffig",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8754410743713379,
+                    0.07702608406543732,
+                    0.047532834112644196
+                ]
+            }
+        },
+        {
+            "title": "Verpflegungsleistungen",
+            "result": {
+                "sequence": "Verpflegungsleistungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7989506125450134,
+                    0.12374826520681381,
+                    0.07730117440223694
+                ]
+            }
         }
     ]
 }
