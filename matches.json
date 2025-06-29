@@ -6255,6 +6255,22 @@
                     0.07730117440223694
                 ]
             }
+        },
+        {
+            "title": "Herstellung und Lieferung im Rahmen der Mittagsverpflegung f\u00fcr 4 Grundschulen: Heiligenwegschule, Rosenplatzschule, Schule i.d. Dodesheide und St\u00fcveschule",
+            "result": {
+                "sequence": "Herstellung und Lieferung im Rahmen der Mittagsverpflegung f\u00fcr 4 Grundschulen: Heiligenwegschule, Rosenplatzschule, Schule i.d. Dodesheide und St\u00fcveschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9139284491539001,
+                    0.06970095634460449,
+                    0.016370592638850212
+                ]
+            }
         }
     ]
 }
