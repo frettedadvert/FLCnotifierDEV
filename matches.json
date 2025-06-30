@@ -6271,6 +6271,22 @@
                     0.016370592638850212
                 ]
             }
+        },
+        {
+            "title": "Essensverpflegung in der Erstaufnahmeeinrichtung f\u00fcr Fl\u00fcchtlinge Am Schr\u00f6cker Tor 2, 76344 Eggenstein-Leopoldshafen",
+            "result": {
+                "sequence": "Essensverpflegung in der Erstaufnahmeeinrichtung f\u00fcr Fl\u00fcchtlinge Am Schr\u00f6cker Tor 2, 76344 Eggenstein-Leopoldshafen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.974125862121582,
+                    0.02241211198270321,
+                    0.003462046617642045
+                ]
+            }
         }
     ]
 }
