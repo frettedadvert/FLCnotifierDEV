@@ -6287,6 +6287,70 @@
                     0.003462046617642045
                 ]
             }
+        },
+        {
+            "title": "Speisenversorgung an Schulen in Tr\u00e4gerschaft der Stadt Leipzig",
+            "result": {
+                "sequence": "Speisenversorgung an Schulen in Tr\u00e4gerschaft der Stadt Leipzig",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.727967381477356,
+                    0.17017103731632233,
+                    0.10186156630516052
+                ]
+            }
+        },
+        {
+            "title": "Speisenversorgung KJP Hanau",
+            "result": {
+                "sequence": "Speisenversorgung KJP Hanau",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8074891567230225,
+                    0.1437438428401947,
+                    0.04876701906323433
+                ]
+            }
+        },
+        {
+            "title": "Lieferung von Mittagessen mit regenerierfertigen Speisen f\u00fcr 5 Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Lieferung von Mittagessen mit regenerierfertigen Speisen f\u00fcr 5 Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.48295241594314575,
+                    0.43635547161102295,
+                    0.08069213479757309
+                ]
+            }
+        },
+        {
+            "title": "Konzession Schulverpflegung in der Mensa des Johann-Wolfgang-von-Goethe-Gymnasiums in Pritzwalk",
+            "result": {
+                "sequence": "Konzession Schulverpflegung in der Mensa des Johann-Wolfgang-von-Goethe-Gymnasiums in Pritzwalk",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9768115282058716,
+                    0.01705346070230007,
+                    0.006135015282779932
+                ]
+            }
         }
     ]
 }
