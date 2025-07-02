@@ -6351,6 +6351,38 @@
                     0.006135015282779932
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung Kita's",
+            "result": {
+                "sequence": "Mittagsverpflegung Kita's",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8056178092956543,
+                    0.140756294131279,
+                    0.053625818341970444
+                ]
+            }
+        },
+        {
+            "title": "Herstellung und Lieferung von Mittagessen f\u00fcr Kindertagesst\u00e4tten",
+            "result": {
+                "sequence": "Herstellung und Lieferung von Mittagessen f\u00fcr Kindertagesst\u00e4tten",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.4906771183013916,
+                    0.28760990500450134,
+                    0.22171296179294586
+                ]
+            }
         }
     ]
 }
