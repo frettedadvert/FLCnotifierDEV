@@ -6383,6 +6383,118 @@
                     0.22171296179294586
                 ]
             }
+        },
+        {
+            "title": "Mittagsversorgung f\u00fcr Menschen mit Behinderungen",
+            "result": {
+                "sequence": "Mittagsversorgung f\u00fcr Menschen mit Behinderungen",
+                "labels": [
+                    "lebensmittel",
+                    "verpflegung",
+                    "catering"
+                ],
+                "scores": [
+                    0.533555805683136,
+                    0.291355699300766,
+                    0.17508845031261444
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung f\u00fcr st\u00e4dtische Kindertageseinrichtungen ab 01.09.2026",
+            "result": {
+                "sequence": "Mittagsverpflegung f\u00fcr st\u00e4dtische Kindertageseinrichtungen ab 01.09.2026",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9319379925727844,
+                    0.05478090047836304,
+                    0.01328112930059433
+                ]
+            }
+        },
+        {
+            "title": "Bewirtschaftung der Kantine",
+            "result": {
+                "sequence": "Bewirtschaftung der Kantine",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6486638784408569,
+                    0.2976081669330597,
+                    0.05372799560427666
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Verpflegungsleistungen f\u00fcr die Grundschulen, Horte und Kindertagesst\u00e4tten in Tr\u00e4gerschaft der Gemeinde M\u00fchlenbecker Land",
+            "result": {
+                "sequence": "Vergabe von Verpflegungsleistungen f\u00fcr die Grundschulen, Horte und Kindertagesst\u00e4tten in Tr\u00e4gerschaft der Gemeinde M\u00fchlenbecker Land",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9549672603607178,
+                    0.038344867527484894,
+                    0.006687865126878023
+                ]
+            }
+        },
+        {
+            "title": "Essenversorgung (Verpflegung) st\u00e4dtischer Kindertageseinrichtungen und Schulen der Stadtverwaltung Hagenow",
+            "result": {
+                "sequence": "Essenversorgung (Verpflegung) st\u00e4dtischer Kindertageseinrichtungen und Schulen der Stadtverwaltung Hagenow",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9564394354820251,
+                    0.032904088497161865,
+                    0.01065644808113575
+                ]
+            }
+        },
+        {
+            "title": "Food & Beverage Lounges (Los 1: VIP Lounge / Los 2: Common use Lounge)",
+            "result": {
+                "sequence": "Food & Beverage Lounges (Los 1: VIP Lounge / Los 2: Common use Lounge)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.46180659532546997,
+                    0.3977109491825104,
+                    0.14048244059085846
+                ]
+            }
+        },
+        {
+            "title": "Kinderhaus Warmbronn; Mittagsverpflegung 2026-2029",
+            "result": {
+                "sequence": "Kinderhaus Warmbronn; Mittagsverpflegung 2026-2029",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9566923975944519,
+                    0.0361383892595768,
+                    0.0071691907942295074
+                ]
+            }
         }
     ]
 }
