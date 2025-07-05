@@ -6495,6 +6495,54 @@
                     0.0071691907942295074
                 ]
             }
+        },
+        {
+            "title": "Catering Kitas Kreisstadt Dietzenbach",
+            "result": {
+                "sequence": "Catering Kitas Kreisstadt Dietzenbach",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9652964472770691,
+                    0.02845768816769123,
+                    0.006245949771255255
+                ]
+            }
+        },
+        {
+            "title": "Kinderhaus Ezach; Mittagsverpflegung 2025-2029",
+            "result": {
+                "sequence": "Kinderhaus Ezach; Mittagsverpflegung 2025-2029",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.93389493227005,
+                    0.05860470235347748,
+                    0.007500366307795048
+                ]
+            }
+        },
+        {
+            "title": "Kantinenbetrieb Justizzentrum Potsdam",
+            "result": {
+                "sequence": "Kantinenbetrieb Justizzentrum Potsdam",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.45431819558143616,
+                    0.42464980483055115,
+                    0.12103205919265747
+                ]
+            }
         }
     ]
 }
