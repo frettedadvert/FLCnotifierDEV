@@ -6543,6 +6543,54 @@
                     0.12103205919265747
                 ]
             }
+        },
+        {
+            "title": "Zubereitung und Lieferung von warmem und verzehrfertigem Mittagessen f\u00fcr st\u00e4dtische Kindertageseinrichtungen",
+            "result": {
+                "sequence": "Zubereitung und Lieferung von warmem und verzehrfertigem Mittagessen f\u00fcr st\u00e4dtische Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.4433279037475586,
+                    0.3276112675666809,
+                    0.22906078398227692
+                ]
+            }
+        },
+        {
+            "title": "Verpflegung f\u00fcr Asylbegehrende V",
+            "result": {
+                "sequence": "Verpflegung f\u00fcr Asylbegehrende V",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9302703738212585,
+                    0.048267439007759094,
+                    0.021462153643369675
+                ]
+            }
+        },
+        {
+            "title": "Mensabetrieb an den Schulen in der Samtgemeinde Isenb\u00fcttel ab 08/2026",
+            "result": {
+                "sequence": "Mensabetrieb an den Schulen in der Samtgemeinde Isenb\u00fcttel ab 08/2026",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7284447550773621,
+                    0.22863759100437164,
+                    0.042917702347040176
+                ]
+            }
         }
     ]
 }
