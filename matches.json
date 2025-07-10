@@ -6591,6 +6591,86 @@
                     0.042917702347040176
                 ]
             }
+        },
+        {
+            "title": "Nieders\u00e4chsisches Staatsbad Pyrmont Betriebsgesellschaft mbH - Vergabe von Catering-Dienstleistungen f\u00fcr Objekte in Bad Pyrmont und Bad Nenndorf",
+            "result": {
+                "sequence": "Nieders\u00e4chsisches Staatsbad Pyrmont Betriebsgesellschaft mbH - Vergabe von Catering-Dienstleistungen f\u00fcr Objekte in Bad Pyrmont und Bad Nenndorf",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8996943235397339,
+                    0.0835687518119812,
+                    0.01673690788447857
+                ]
+            }
+        },
+        {
+            "title": "Konzessionsvertrag - Bewirtschaftete Betreuung (Gastronomie und Warenverkauf) an den Bundeswehrstandorten in Litauen/Concession Contract - MWR Food Service (gastronomy and sale of goods) in Lithuania",
+            "result": {
+                "sequence": "Konzessionsvertrag - Bewirtschaftete Betreuung (Gastronomie und Warenverkauf) an den Bundeswehrstandorten in Litauen/Concession Contract - MWR Food Service (gastronomy and sale of goods) in Lithuania",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6864592432975769,
+                    0.2942773103713989,
+                    0.019263435155153275
+                ]
+            }
+        },
+        {
+            "title": "Vergabeverfahren \"Patientenverpflegung Hochtaunus-Kliniken gGmbH\"",
+            "result": {
+                "sequence": "Vergabeverfahren \"Patientenverpflegung Hochtaunus-Kliniken gGmbH\"",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8975621461868286,
+                    0.08277752995491028,
+                    0.019660327583551407
+                ]
+            }
+        },
+        {
+            "title": "Bewirtschaftung des Betriebsrestaurants inkl. Zwischenverpflegung und Automatenservice",
+            "result": {
+                "sequence": "Bewirtschaftung des Betriebsrestaurants inkl. Zwischenverpflegung und Automatenservice",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8985922932624817,
+                    0.09338419139385223,
+                    0.008023418486118317
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an 15 Schulstandorten in Castrop-Rauxel",
+            "result": {
+                "sequence": "Mittagsverpflegung an 15 Schulstandorten in Castrop-Rauxel",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9175460934638977,
+                    0.07193633168935776,
+                    0.010517529211938381
+                ]
+            }
         }
     ]
 }
