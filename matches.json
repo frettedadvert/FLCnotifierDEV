@@ -6671,6 +6671,22 @@
                     0.010517529211938381
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung Wormser Ganztagsschulen",
+            "result": {
+                "sequence": "Mittagsverpflegung Wormser Ganztagsschulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9204803109169006,
+                    0.0566142275929451,
+                    0.02290540188550949
+                ]
+            }
         }
     ]
 }
