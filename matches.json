@@ -6687,6 +6687,38 @@
                     0.02290540188550949
                 ]
             }
+        },
+        {
+            "title": "Schulverpflegung f\u00fcr die Wallenhorster Grundschulen",
+            "result": {
+                "sequence": "Schulverpflegung f\u00fcr die Wallenhorster Grundschulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9514976143836975,
+                    0.039649784564971924,
+                    0.008852659724652767
+                ]
+            }
+        },
+        {
+            "title": "Essenslieferung",
+            "result": {
+                "sequence": "Essenslieferung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7672970294952393,
+                    0.1480911523103714,
+                    0.08461175113916397
+                ]
+            }
         }
     ]
 }
