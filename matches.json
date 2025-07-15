@@ -6719,6 +6719,38 @@
                     0.08461175113916397
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung an Mannheimer Schulen EU 1",
+            "result": {
+                "sequence": "Mittagsverpflegung an Mannheimer Schulen EU 1",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9410070776939392,
+                    0.048654183745384216,
+                    0.01033870130777359
+                ]
+            }
+        },
+        {
+            "title": "Catering Hauptschule Frechen SJ 2025/2026",
+            "result": {
+                "sequence": "Catering Hauptschule Frechen SJ 2025/2026",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9490758776664734,
+                    0.03806881979107857,
+                    0.012855292297899723
+                ]
+            }
         }
     ]
 }
