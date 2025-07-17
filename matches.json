@@ -6751,6 +6751,38 @@
                     0.012855292297899723
                 ]
             }
+        },
+        {
+            "title": "Schulverpflegung f\u00fcr das Schulzentrum Hamburger Stra\u00dfe (SHS), Bremerhaven",
+            "result": {
+                "sequence": "Schulverpflegung f\u00fcr das Schulzentrum Hamburger Stra\u00dfe (SHS), Bremerhaven",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.987226128578186,
+                    0.009289027191698551,
+                    0.0034848321229219437
+                ]
+            }
+        },
+        {
+            "title": "SN - Dienstleistungskonzession: Kantinenbetrieb der Verwaltung des Wasserverband Eifel-Rur",
+            "result": {
+                "sequence": "SN - Dienstleistungskonzession: Kantinenbetrieb der Verwaltung des Wasserverband Eifel-Rur",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7857149243354797,
+                    0.13842199742794037,
+                    0.0758630782365799
+                ]
+            }
         }
     ]
 }
