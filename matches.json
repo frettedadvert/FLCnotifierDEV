@@ -6783,6 +6783,38 @@
                     0.0758630782365799
                 ]
             }
+        },
+        {
+            "title": "Essensversorgung in den 3 ans\u00e4ssigen Grundschulen der Gemeinde Ottendorf-Okrilla",
+            "result": {
+                "sequence": "Essensversorgung in den 3 ans\u00e4ssigen Grundschulen der Gemeinde Ottendorf-Okrilla",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6420136094093323,
+                    0.20664134621620178,
+                    0.1513451188802719
+                ]
+            }
+        },
+        {
+            "title": "Betrieb der Vesperkantinen PLUS im Landratsamt Enzkreis",
+            "result": {
+                "sequence": "Betrieb der Vesperkantinen PLUS im Landratsamt Enzkreis",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6456329226493835,
+                    0.2468688040971756,
+                    0.10749830305576324
+                ]
+            }
         }
     ]
 }
