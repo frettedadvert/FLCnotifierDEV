@@ -6815,6 +6815,38 @@
                     0.10749830305576324
                 ]
             }
+        },
+        {
+            "title": "Verpflegungsleistung mit Mittagessen f\u00fcr 4 kommunale Kindertagesst\u00e4tten",
+            "result": {
+                "sequence": "Verpflegungsleistung mit Mittagessen f\u00fcr 4 kommunale Kindertagesst\u00e4tten",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9312363266944885,
+                    0.047097738832235336,
+                    0.02166595123708248
+                ]
+            }
+        },
+        {
+            "title": "Ausschreibung eines Rahmenvertrages \u00fcber Verpflegungsleistungen in div. Einrichtungen von F&W",
+            "result": {
+                "sequence": "Ausschreibung eines Rahmenvertrages \u00fcber Verpflegungsleistungen in div. Einrichtungen von F&W",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9648801684379578,
+                    0.022423366084694862,
+                    0.012696455232799053
+                ]
+            }
         }
     ]
 }
