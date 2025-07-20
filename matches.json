@@ -6847,6 +6847,38 @@
                     0.012696455232799053
                 ]
             }
+        },
+        {
+            "title": "Dienstleistungskonzession und Verpachtung des Verkaufsraumes f\u00fcr die Pausenverpflegung an der Mit-telschule Ulrich-Schmidl, Breslauer Str. 25, 94315 Straubing",
+            "result": {
+                "sequence": "Dienstleistungskonzession und Verpachtung des Verkaufsraumes f\u00fcr die Pausenverpflegung an der Mit-telschule Ulrich-Schmidl, Breslauer Str. 25, 94315 Straubing",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9617526531219482,
+                    0.02000911720097065,
+                    0.0182382483035326
+                ]
+            }
+        },
+        {
+            "title": "Mit\u00adtags\u00adver\u00adpfle\u00adgung Hans-Fal\u00adla\u00adda-Schu\u00adle 01.09.2025 - 31.08.2028",
+            "result": {
+                "sequence": "Mit\u00adtags\u00adver\u00adpfle\u00adgung Hans-Fal\u00adla\u00adda-Schu\u00adle 01.09.2025 - 31.08.2028",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9369643926620483,
+                    0.05012639984488487,
+                    0.012909160926938057
+                ]
+            }
         }
     ]
 }
