@@ -6879,6 +6879,38 @@
                     0.012909160926938057
                 ]
             }
+        },
+        {
+            "title": "Mittagessenversorgung in der Magister-Hering-Grundschule in 04758 Oschatz, Karl-Liebknecht-Stra\u00dfe 1",
+            "result": {
+                "sequence": "Mittagessenversorgung in der Magister-Hering-Grundschule in 04758 Oschatz, Karl-Liebknecht-Stra\u00dfe 1",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5370997786521912,
+                    0.29246750473976135,
+                    0.17043274641036987
+                ]
+            }
+        },
+        {
+            "title": "Zubereitung und Lieferung von warmem und verzehrfertigem Mittagessen f\u00fcr st\u00e4dtische Grundschulen",
+            "result": {
+                "sequence": "Zubereitung und Lieferung von warmem und verzehrfertigem Mittagessen f\u00fcr st\u00e4dtische Grundschulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.4577969014644623,
+                    0.28541967272758484,
+                    0.25678351521492004
+                ]
+            }
         }
     ]
 }
