@@ -6911,6 +6911,54 @@
                     0.25678351521492004
                 ]
             }
+        },
+        {
+            "title": "Dienstleistungskonzession und Verpachtung des Verkaufsraumes f\u00fcr die Pausenverkaufsverpflegung an der Grund- und Mittelschule Ittling, Niederalteicher Str. 13, 94315 Straubing",
+            "result": {
+                "sequence": "Dienstleistungskonzession und Verpachtung des Verkaufsraumes f\u00fcr die Pausenverkaufsverpflegung an der Grund- und Mittelschule Ittling, Niederalteicher Str. 13, 94315 Straubing",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.924374520778656,
+                    0.0623994804918766,
+                    0.013225995004177094
+                ]
+            }
+        },
+        {
+            "title": "R\u00e4um\u00adlich\u00adkei\u00adten, \u00dcber\u00adnach\u00adtun\u00adgen und Ver\u00adpfle\u00adgung f\u00fcr die BR-Ta\u00adgung des PZ Mainz ? M\u00e4rz 2026",
+            "result": {
+                "sequence": "R\u00e4um\u00adlich\u00adkei\u00adten, \u00dcber\u00adnach\u00adtun\u00adgen und Ver\u00adpfle\u00adgung f\u00fcr die BR-Ta\u00adgung des PZ Mainz ? M\u00e4rz 2026",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8043298721313477,
+                    0.1294465959072113,
+                    0.06622353196144104
+                ]
+            }
+        },
+        {
+            "title": "Speiseversorgung Kerckhoff-Klinik",
+            "result": {
+                "sequence": "Speiseversorgung Kerckhoff-Klinik",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8992879986763,
+                    0.07538250833749771,
+                    0.025329530239105225
+                ]
+            }
         }
     ]
 }
