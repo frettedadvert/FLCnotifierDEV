@@ -6959,6 +6959,22 @@
                     0.025329530239105225
                 ]
             }
+        },
+        {
+            "title": "TSK25014 An\u00admie\u00adtung von drei Ven\u00adding-Hei\u00df\u00adge\u00adtr\u00e4n\u00adke\u00adau\u00adto\u00adma\u00adten in\u00adklu\u00adsi\u00adve Full\u00adser\u00advice und Ver\u00adbrauchs\u00adma\u00adte\u00adri\u00adal",
+            "result": {
+                "sequence": "TSK25014 An\u00admie\u00adtung von drei Ven\u00adding-Hei\u00df\u00adge\u00adtr\u00e4n\u00adke\u00adau\u00adto\u00adma\u00adten in\u00adklu\u00adsi\u00adve Full\u00adser\u00advice und Ver\u00adbrauchs\u00adma\u00adte\u00adri\u00adal",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8783929347991943,
+                    0.061014313250780106,
+                    0.06059279665350914
+                ]
+            }
         }
     ]
 }
