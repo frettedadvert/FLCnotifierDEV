@@ -6975,6 +6975,22 @@
                     0.06059279665350914
                 ]
             }
+        },
+        {
+            "title": "Stadt Gehrden - Vergabe der Mittagsverpflegung von derzeit 8 Kitas in Gehrden",
+            "result": {
+                "sequence": "Stadt Gehrden - Vergabe der Mittagsverpflegung von derzeit 8 Kitas in Gehrden",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7674674391746521,
+                    0.17306089401245117,
+                    0.05947169288992882
+                ]
+            }
         }
     ]
 }
