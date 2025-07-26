@@ -6991,6 +6991,54 @@
                     0.05947169288992882
                 ]
             }
+        },
+        {
+            "title": "W0480 - Vergabe \u00fcber die bewirtschaftete Betreuung am StO Diepholz",
+            "result": {
+                "sequence": "W0480 - Vergabe \u00fcber die bewirtschaftete Betreuung am StO Diepholz",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9283466339111328,
+                    0.037082504481077194,
+                    0.03457087278366089
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung an sechs Ganztagsschulen und einer Grundschule",
+            "result": {
+                "sequence": "Mittagsverpflegung an sechs Ganztagsschulen und einer Grundschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9210167527198792,
+                    0.06576472520828247,
+                    0.013218479230999947
+                ]
+            }
+        },
+        {
+            "title": "Essensanbieter Amtsgebiet",
+            "result": {
+                "sequence": "Essensanbieter Amtsgebiet",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.658736526966095,
+                    0.20600396394729614,
+                    0.13525952398777008
+                ]
+            }
         }
     ]
 }
