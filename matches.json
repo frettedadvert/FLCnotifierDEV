@@ -7039,6 +7039,22 @@
                     0.13525952398777008
                 ]
             }
+        },
+        {
+            "title": "Mittagsverpflegung in den st\u00e4dtischen Kindertagesst\u00e4tten der Landeshauptstadt Mainz",
+            "result": {
+                "sequence": "Mittagsverpflegung in den st\u00e4dtischen Kindertagesst\u00e4tten der Landeshauptstadt Mainz",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9207996129989624,
+                    0.05399329587817192,
+                    0.025207094848155975
+                ]
+            }
         }
     ]
 }
