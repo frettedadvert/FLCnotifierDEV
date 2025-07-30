@@ -7055,6 +7055,118 @@
                     0.025207094848155975
                 ]
             }
+        },
+        {
+            "title": "Mittagessen an T\u00fcbinger KiTa's- nachhaltig. gut. 2025-2027",
+            "result": {
+                "sequence": "Mittagessen an T\u00fcbinger KiTa's- nachhaltig. gut. 2025-2027",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6073592305183411,
+                    0.2605205774307251,
+                    0.13212023675441742
+                ]
+            }
+        },
+        {
+            "title": "Mittagessen an T\u00fcbinger Schulen - nachhaltig. gut. 2025-2027",
+            "result": {
+                "sequence": "Mittagessen an T\u00fcbinger Schulen - nachhaltig. gut. 2025-2027",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6677756905555725,
+                    0.24045799672603607,
+                    0.09176630526781082
+                ]
+            }
+        },
+        {
+            "title": "Dienst\u00adleis\u00adtungs\u00adkon\u00adzes\u00adsi\u00adon Schul\u00adver\u00adpfle\u00adgung Grund- und Re\u00adgio\u00adna\u00adle Schu\u00adle Dar\u00adgun, Be\u00adlie\u00adfe\u00adrung mit Spei\u00adsen f\u00fcr die Mit\u00adtags\u00adver\u00adpfle\u00adgung",
+            "result": {
+                "sequence": "Dienst\u00adleis\u00adtungs\u00adkon\u00adzes\u00adsi\u00adon Schul\u00adver\u00adpfle\u00adgung Grund- und Re\u00adgio\u00adna\u00adle Schu\u00adle Dar\u00adgun, Be\u00adlie\u00adfe\u00adrung mit Spei\u00adsen f\u00fcr die Mit\u00adtags\u00adver\u00adpfle\u00adgung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.847135066986084,
+                    0.10147002339363098,
+                    0.05139491707086563
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung in Offenen Ganztagsschulen (OGS)",
+            "result": {
+                "sequence": "Mittagsverpflegung in Offenen Ganztagsschulen (OGS)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6586809158325195,
+                    0.2731035649776459,
+                    0.06821546703577042
+                ]
+            }
+        },
+        {
+            "title": "Mittagsverpflegung Lehrgangsteilnehmerinnen und -teilnehmer ZAW BetrSt Veitsh\u00f6chheim",
+            "result": {
+                "sequence": "Mittagsverpflegung Lehrgangsteilnehmerinnen und -teilnehmer ZAW BetrSt Veitsh\u00f6chheim",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9302339553833008,
+                    0.06296897679567337,
+                    0.006797065492719412
+                ]
+            }
+        },
+        {
+            "title": "Bewirtschaftung der Kantinenr\u00e4ume des BMI am Standort Alt Moabit",
+            "result": {
+                "sequence": "Bewirtschaftung der Kantinenr\u00e4ume des BMI am Standort Alt Moabit",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.5677928328514099,
+                    0.38436159491539,
+                    0.04784552380442619
+                ]
+            }
+        },
+        {
+            "title": "Vergabe von Verpflegungsleistungen f\u00fcr kommunale Kindertagesst\u00e4tten, Schulen und Horte",
+            "result": {
+                "sequence": "Vergabe von Verpflegungsleistungen f\u00fcr kommunale Kindertagesst\u00e4tten, Schulen und Horte",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9195653796195984,
+                    0.065147764980793,
+                    0.015286889858543873
+                ]
+            }
         }
     ]
 }
