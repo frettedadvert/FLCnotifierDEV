@@ -7167,6 +7167,38 @@
                     0.015286889858543873
                 ]
             }
+        },
+        {
+            "title": "Dienst\u00adleis\u00adtungs\u00adkon\u00adzes\u00adsi\u00adon f\u00fcr die mo\u00adbi\u00adle Strand\u00adver\u00adsor\u00adgung am Strand der Ge\u00admein\u00adde Ost\u00adsee\u00adbad Dier\u00adha\u00adgen",
+            "result": {
+                "sequence": "Dienst\u00adleis\u00adtungs\u00adkon\u00adzes\u00adsi\u00adon f\u00fcr die mo\u00adbi\u00adle Strand\u00adver\u00adsor\u00adgung am Strand der Ge\u00admein\u00adde Ost\u00adsee\u00adbad Dier\u00adha\u00adgen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8678131699562073,
+                    0.08957081288099289,
+                    0.04261603206396103
+                ]
+            }
+        },
+        {
+            "title": "Essensversorgung (Frisch-Misch-K\u00fcche) f\u00fcr das Haus der Bildung f\u00fcr den Zeitraum 27.08.2025 bis 26.08.2028, mit Option der Verl\u00e4ngerung um ein Jahr",
+            "result": {
+                "sequence": "Essensversorgung (Frisch-Misch-K\u00fcche) f\u00fcr das Haus der Bildung f\u00fcr den Zeitraum 27.08.2025 bis 26.08.2028, mit Option der Verl\u00e4ngerung um ein Jahr",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.721876859664917,
+                    0.15916948020458221,
+                    0.1189536452293396
+                ]
+            }
         }
     ]
 }
